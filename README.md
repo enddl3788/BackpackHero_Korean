@@ -1,3 +1,7 @@
+<div style="border: 2px solid #aaa; border-radius: 12px; overflow: hidden;">
+    <img src="https://i.ytimg.com/vi/iUaUem4kWLw/maxresdefault.jpg" alt="BackpackHero" style="width: 10% align="center"; height: auto;">
+</div>
+
 # BackpackHero 한글 패치
 
 이 프로젝트는 BackpackHero 의 한글 패치를 제공합니다.<br>
@@ -7,14 +11,12 @@
 ## 패치 적용 방법
 
 1. 게임을 최신 버전으로 업데이트하세요.
-   
-3. Backpack Hero_Data 한글 패치 파일을 다운받으세요.
-   
+2. '<> Code -> Download ZIP' 을 클릭하여, 한글 패치 파일을 다운받으세요.
+3. 'BackpackHero_Korean-main.zip' 파일을 압축 해제 하세요.
 4. Steam 라이브러리에서 Backpack Hero를 우클릭하여 '관리 -> 로컬 파일 보기' 를 클릭하세요.
-   
-6. ~ SteamLibrary\steamapps\common\Backpack Hero 폴더가 열리는데, Backpack Hero_Data를 붙여넣기 하여 '덮어쓰기'를 하세요.
-
-7. 게임을 실행하고 변경된 내용을 확인하세요.
+5. ~ SteamLibrary\steamapps\common\Backpack Hero 폴더가 열리는데,<br>
+다운받은 'BackpackHero_Korean-main' 폴더 안에 'Backpack Hero_Data'를 붙여넣기 하여 '덮어쓰기'를 하세요.
+6. 게임을 실행하고 변경된 내용을 확인하세요.
 
 ## 주의 사항
 
