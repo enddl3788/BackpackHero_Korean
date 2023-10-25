@@ -28,3 +28,15 @@ Steam 라이브러리에서 Backpack Hero를 우클릭하여 '속성 -> 설치�
 ## 기여
 
 기여는 언제나 환영합니다! 버그를 발견하거나 기능을 추가하고 싶다면 풀 리퀘스트를 보내주세요.
+
+## 번역 방법
+1. '\Backpack Hero_Data\StreamingAssets\Language\translations\Korean.csv' 파일을 엑셀로 연다.
+2. 아래 표와 같은 형식으로 번역한다. <br>
+
+| Category | Key | English | Korean | Notes |
+|:---------:|:--------:|:---------:|:---------:|:---------:|
+| 카테고리| 아이템 ID| 영어| 한글| 주석|
+| items| ACIDIC POTION| ACIDIC POTION| 산성 물약| # ACIDIC = 산성|
+
+- enemies 설명의 경우 Key가 번역된 값으로 설정됨
+- pressToStart 에서 /x 이 아닌 Press /x 로 해야 적용됨
