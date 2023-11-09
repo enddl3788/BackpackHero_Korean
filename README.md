@@ -39,4 +39,4 @@ Steam 라이브러리에서 Backpack Hero를 우클릭하여 '속성 -> 설치�
 | items| ACIDIC POTION| ACIDIC POTION| 산성 물약| # ACIDIC = 산성|
 
 - enemies 설명의 경우 Key가 번역된 값으로 설정됨
-- pressToStart 에서 /x 이 아닌 Press /x 로 해야 적용됨
+- pressToStart 에서 /x 이 아닌 'Press /x '로 해야 적용됨
