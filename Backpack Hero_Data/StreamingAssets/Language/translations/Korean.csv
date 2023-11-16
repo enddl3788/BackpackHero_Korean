@@ -146,7 +146,7 @@ controller prompts,cpSelect,Select,선택,
 ,cpPick Up,Pick Up,줍기,
 ,holdButton,hold,길게 누르기,Text displayed over buttons that must be held!
 ,cpSwap,Swap,바꾸기,
-,pressToStart,Press /x to Start!,/x를 눌러 시작하세요!,
+,pressToStart,Press /x to Start!,Press /x 를 눌러 시작하세요!,
 options,opt1,Music Volume,음악 크기,
 ,opt2,SFX Volume,음향 크기,
 ,opt3,Animation Speed,애니메이션 속도,
