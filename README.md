@@ -9,16 +9,15 @@
 직접 번역하여 오역이 있을 수 있습니다!
 
 + 현재 시청 건물에서 건물 이름이 □으로 표기되는 문제가 있음. 게임 파일에서 그 부분에만 korean 폰트가 적용되지 않은것으로 예상함. 이 경우 저의 능력 부족으로 변경 불가능.
-+ 깃허브 LFS 사용법이 까다로워, 다운로드 방법을 구글 드라이브로 이동하였습니다.
 
 ## 패치 적용 방법
 
 1. 게임을 최신 버전으로 업데이트하세요.
-2. [[구글 드라이브로 이동]](https://drive.google.com/file/d/1V1YYwgPo43C3ipv7KFbaSyxa3tpoj_t1/view?usp=sharing) 좌측 링크를 클릭하여, 한글 패치 파일을 다운받으세요.
-3. 'Backpack Hero_Data.zip' 파일을 압축 해제 하세요.
+2. '<> Code -> Download ZIP' 을 클릭하여, 한글 패치 파일을 다운받으세요.
+3. 'BackpackHero_Korean-main.zip' 파일을 압축 해제 하세요.
 4. Steam 라이브러리에서 Backpack Hero를 우클릭하여 '관리 -> 로컬 파일 보기' 를 클릭하세요.
 5. SteamLibrary\steamapps\common\Backpack Hero 폴더가 열리는데,<br>
-   다운받은 'Backpack Hero_Data' 폴더를 붙여넣기 하여 '덮어쓰기'를 하세요.
+다운받은 'BackpackHero_Korean-main' 폴더 안에 'Backpack Hero_Data'를 붙여넣기 하여 '덮어쓰기'를 하세요.
 6. 게임을 실행하고 환경설정에서 '언어 - KOREAN' 을 선택하고, 변경된 내용을 확인하세요.
 
 ## 주의 사항
