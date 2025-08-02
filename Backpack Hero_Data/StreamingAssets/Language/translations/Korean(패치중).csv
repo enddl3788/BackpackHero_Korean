@@ -48,356 +48,356 @@ Twitch,twitch1,Twitch Options,트위치 설정,번역완료_enddl3788
 ,twitchTPolls,Enable Polls,투표 활성화,번역완료_enddl3788
 ,twitchTDeathCounter,Enable Death Counter,죽음 횟수 카운터 활성화,번역완료_enddl3788
 ,twitchTEmoteEffect,Enable Emote Effect,이모트 효과 활성화,번역완료_enddl3788
-,twitchLGeneral,General Settings,일반 설정,
-,twitchLPolls,Poll Settings,투표 설정,
-,twitchLPresets,Presets,프리셋,
-,twitchTDisableLoot,Disable regular combat rewards,일반 전투 보상 비활성화,
-,twitchLPollLength,Poll length in seconds,투표 시간 (초),
-,twitchLPollCount,Polls per combat,전투당 투표,
-,twitchLPositive,Positive,긍정,
-,twitchLNegative,Negative,부정,
-,twitchLSpecial,Special,특수,
-,twitchTItems,Specific Items,특정 아이템,
-,twitchTItemsType,Items By Type,종류별 아이템,
-,twitchTItemsRarity,Items By Rarity,희귀도별 아이템,
-,twitchTStatusPlayer,Status Effects (Player),상태 효과 (플레이어),
-,twitchTStatusEnemy,Status Effects (Enemy),상태 효과 (적),
-,twitchTBlessings,Blessings,축복,
-,twitchTHazards,Hazards,위험 요소,
-,twitchTCurses,Curses,저주,
-,twitchTDecideBoss,Decide Boss,보스 결정,
-,twitchTDecideRelic,Decide Relics,유물 결정,
-,twitchPresetCustom,Custom,맞춤 설정,
-,twitchPresetAllEnabled,All Enabled,모두 활성화,
-,twitchPresetOnlyNegative,Chat is your enemy,나쁜 효과만,
-,twitchPresetOnlyPositive,Chat is your friend,좋은 효과만,
-,twitchPresetChatLootOnly,Chat Loot Only,아이템만,
-,twitchPresetStatus,Through the fire and rage,효과만,
-,twitchStatus,Status: /x,상태: /x,
-,twitchSNoAuth,Not Authenticated,인증되지 않음,
-,twitchSNotConnected,Not Connected,연결되지 않음,
-,twitchSConnectedTo,You’re all set! Connected to /y.,/y에 연결했습니다.,
-,twitchSAuthenticating,Authenticating…,인증 중...,
-,twitchSConnecting,Connecting…,연결 중...,
-,twitchSLoggedIn,"Logged In, but not connected.",로그인했지만 연결되지 않았습니다.,
-,twitchSAuthFail,Authentication failed! (Error /y),인증 실패! (오류 /y),
-,twitchSConnectFail,Connection failed! (Error /y),연결 실패! (오류 /y),
-,twitchPollTitleNext,What happens next?,다음엔 뭘 할까요?,
-,twitchPollTitleBoss,Pick the next boss!,다음 보스를 선택하세요!,
-,twitchPollTitleRelic,Pick a relic!,유물을 선택하세요!,
-,twitchVote,Vote in chat!,채팅에서 투표하세요!,Vote in chat!
-,Twitchtimevotes,"/x left, /y votes","/x 남음, /y표",
-,twitchvoted,voted,투표함,
-,twitchPollChatMsg,“/x” has won the poll!,"투표 결과: ""/x""",
-,twitchPollResult,won with /x votes,/x표로 이김,
-,twitchPollItemType,Random /x item,무작위 /x 아이템,
-,twitchPollItemRarity,Random /x item,무작위 /x 아이템,
-,twitchItemCard,Spawns a random /x item on the next player turn.,다음 플레이어 차례에 무작위 /x 아이템이 생겨납니다.,
-,twitchCurseCard,Spawns a random curse on the next player turn.,다음 플레이어 차례에 무작위 저주가 생겨납니다.,
-,twitchBlessingCard,Spawns a random blessing on the next player turn.,다음 플레이어 차례에 무작위 축복이 생겨납니다.,
-,twitchPollStatusPlayer,+/x /y (Player),#ERROR!,
-,twitchPollStatusEnemy,+/x /y (Enemy),#ERROR!,
-,twitchPollBlessing,Player gets blessed,플레이어가 축복을 받습니다,
-,twitchPollHazard,/x Hazard,/x 위험,
-,twitchPollCurse,Player gets cursed,플레이어가 저주를 받습니다,
-,twitchDeathEx1,Oh no!,망할!,
-,twitchDeathEx2,Argh!,으악!,
-,twitchDeathEx3,Oof!,꺅!,
-,twitchDeathEx4,Oh well!,젠장!,
-,twitchDeathEx5,Sadge…,아깝...,
-,twitchDeathEx6,Darn it!,이런!,
-,twitchDeathEx7,Better luck next time!,다음엔 행운을 빌어요!,
-,twitchDeathEx8,Try again!,다시 해보세요!,
-,twitchDeathChatMsg,/x /y has died /z times. (/w times this stream),/x /y님이 /z번 사망했습니다. (이번 방송에 /w번),
-,TwitchOrigin,Twitch,트위치,
-Early Access,earlyAccess1,"A message from developer Jas: <br><br>Thank you so much for supporting our game in early access! Backpack Hero isn't finished! New features and content is coming soon! If you have any concerns about the game, please contact us! We try to respond to everything we can on our social media and on Steam!","개발자 재스의 쪽지: <br><br>저희 게임을 얼리 액세스에서 후원해주셔서 감사드립니다! 백팩 히어로의 개발은 끝난 게 아닙니다! 새로운 기능과 콘텐츠들이 곧 업데이트될 예정입니다! 만약 게임에 목소리를 내고 싶으시다면, 저희에게 얘기해주세요! 저희는 SNS, 스토브, 스팀에서 여러분들과 소통하기 위해 최선을 다하고 있습니다!",
-,earlyAccess2,Next Major Update:,다음 주요 업데이트:,
-,earlyAccess3,January,1월,
-,earlyAccess3b,March,2월,
-,earlyAccess3c,April,4월,
-,earlyAccess3d,May and June,"5월, 6월",
-,earlyAccess3e,August,8월,
-,earlyAccess3f,September,9월,
-,earlyAccess4,Relic Redesigns,캐릭터 리디자인,
-,earlyAccess4b,Item updates!,아이템 업데이트!,
-,earlyAccess4c,Mod Support!,모드 지원!,
-,earlyAccess4d,Enemy Rework,적 재설정,
-,earlyAccess4e,We're removing all curses!,모든 저주를 제거합니다!,
-,earlyAccess5,Thank you! From:,감사합니다! 사랑을 담아:,
-demo Text,demo1,New characters and costumes are available in the full version!,풀 버전에서는 새로운 캐릭터들과 의상을 사용할 수 있습니다!,
-,demo2,Please wishlist and follow us on Steam now!,찜 목록에 추가하고 스팀에서 저희를 팔로우해주세요!,
-,demo3,Early Access begins August 2022!,얼리 액세스는 2022년 8월에 시작합니다!,
-,demo4,CR-8 coming July 2022!,2022년 7월에 새 캐릭터 CR-8를 기대하세요!,
-controller prompts,cpSelect,Select,선택,
-,cpExamine,Examine,조사,
-,cpContext Menu,Context Menu,내용 메뉴,
-,cpPlace,Place,두기,
-,cpUse,Use,사용,
-,cpDrop,Drop,버리기,
-,cpRotate,Rotate,회전,
-,cpSelect Enemy,Select Enemy,적 선택,
-,cpMove Here,Move Here,여기로 이동,
-,cpPick Up,Pick Up,줍기,
-,holdButton,hold,길게 누르기,Text displayed over buttons that must be held!
-,cpSwap,Swap,바꾸기,
-,pressToStart,Press /x to Start!,/x를 눌러 시작하세요!,
-options,opt1,Music Volume,음악 크기,
-,opt2,SFX Volume,음향 크기,
-,opt3,Animation Speed,애니메이션 속도,
-,opt4,Brightness,밝기,
-,opt5,Rotate,회전,
-,opt5b,Click again to drop,다시 클릭해 버리기,
-,optt1,Emojis,이모지,
-,optt2,Combat Animations,전투 애니메이션,
-,opt6,FPS,초당 프레임,
-,opt7,Screen Size,스크린 크기,
-,opt8,Quality,품질,
-,opt8b,Resolution,해상도,
-,opt9,Language,언어,
-,opt10,Return to Menu,메뉴로 돌아가기,
-,opt11,Delete on Game Over,게임 오버 시 삭제,
-,opt12,No save games,저장 없는 게임,
-,opt13,Delete all progress!,모든 진행 사항 삭제!,
-,opt13b,Delete all save games,모든 저장 기록 삭제,
-,opt13c,Reset all tutorials,모든 튜토리얼 초기화,
-,opt14,Are you sure?,확실하신가요?,
-,opt14b,Leave this behind?,두고 떠날까요?,
-,opt15,Yes,네,
-,opt16,No,아니요,
-,opt17,Auto-close map,지도 자동 닫기,
-,optQQ,Group ID /x copied!,그룹 ID /x 복사됨!,
-,opt18,Cursor Speed,커서 속도,
-,opt19,Highlight Items,아이템 강조,
-,opt20,Controller Icons,컨트롤러 아이콘,
-,opt21,Return to Orderia,오데리아로 돌아가기,
-,opt21d,This run will be lost,이번 게임이 사라집니다,
-,opt22,This run will be saved,이번 게임이 저장됩니다,
-,opt23,Run cannot be saved here!,여기서는 저장할 수 없습니다!,
-,opt24,Snap to Building Grid,빌딩 그리드에 붙이기,
-,optHoliday,Enable Holiday Events,휴일 이벤트 활성화, WARNING: ENGLISH PLACEHOLDER #####################################################
-,optHolidayMSG,Please restart the game!,게임을 다시 시작해 주세요!, WARNING: ENGLISH PLACEHOLDER #####################################################
-,opt25,Reverse A and B,A와 B 전환,
-,opt26,Reverse X and Y ,X와 Y 전환,
-,optH1,Audio,오디오,
-,optH2,Presentation,디스플레이,
-,optH3,Gameplay,게임플레이,
-,optH4,Social Media,SNS,
-,optH5,Reset Data,데이터 초기화,
-,clickMe,Click me!,나를 클릭하세요!,
-,sellHere,Drag to me to Sell,드래그해 판매하세요,
-,removeHere,I can remove a carving - for a price,인각 하나를 없애주지... 값만 제대로 치른다면.,
-,cantSell,I don't buy those!,그건 안 살 거야!,
-,noMoreSale,I won't take more items!,더 이상은 사지 않겠어!,
-,on,on,켜짐,
-,off,off,꺼짐,
-,windowed,windowed,창 모드,
-,full screen,full screen,전체화면,
-,borderless,borderless,테두리 없는 창,
-,unlimited,unlimited,무제한,
-,low,low,낮음,
-,medium,medium,중간,
-,high,high,높음,
-Item Atlas,ia1,Can only be found by:,다음으로만 찾을 수 있음:,
-,ia2,Can only be found in:,다음 안에서만 찾을 수 있음:,
-,ia3,Created by:,다음 아이템이 생성함:,
-context menu,cm1,View card,카드 보기,
-,cm2,Use item,아이템 사용,
-,cm3,Use Item Max Times,아이템 최대 횟수 사용,
-,cm4,Reroll Items,아이템 새로 받기,
-,cm5,Discover passage,길 발견,
-,cm6,Summon enemies,적 소환,
-,cm7,Add reward,보상 추가,
-,cm8,Duplicate potion,물약 복사,
-,cm9,Combine potions,물약 혼합,
-,cm10,Flip switch,스위치 사용,
-,cm11,Return carving,인각 돌려놓기,
-,cm12,Remove carving,인각 지우기,
-,cm13,Open Pouch,주머니 열기,
-,cm14,Close Pouch,주머니 닫기,
-,cm15,View Inventory,인벤토리 보기,
-,cm16,Recall Pet,펫 부르기,
-,cm17,Sell,팔기,
-,cm18,Unlock,열기,
-,cm19,Transform,변환,
-,cm20,Alternate Use,대체 용도,
-,cm20expl,Used with these types: /x,/x 유형과 함께 사용,
-,cm20explAny,Used with another item,다른 아이템과 함께 사용,
-,cm21,Deselect,선택 취소,
-,cm22,View Research,연구 보기,
-gameManagerMessages,gmreo,Reorganize now to claim this item!,지금 재배치하면 이 아이템을 획득할 수 있습니다!,
-,gm1,Finished!,끝!,
-,gm2,Must be in an empty room!,빈 방에 있어야 합니다!,
-,gm3,Cannot save right now!,지금은 저장할 수 없습니다!,
-,gm4,Complete tutorial to save!,튜토리얼을 완수해야 저장할 수 있습니다!,
-,gm5,Cannnot save while moving!,이동하는 동안에는 저장할 수 없습니다!,
-,gm6,Finale,종장,
-,gm7,Part /x of /y,/y중 /x장,
-,gm7bn,Endless Mode,끝없는 모드,
-,gm7b,Loop Number: /x,/x회차,
-,gm8,Finished Choosing,고르기 완료,
-,gm9,Can't take more items,더 이상 아이템을 가져갈 수 없습니다,
-,gm10,Take /x items,/x개의 아이템을 가져가세요,
-,gm11,Take 1 item,1개의 아이템을 가져가세요,
-,gmb,Battle Start!,전투 개시!,
-,gmpt,Player Turn!,플레이어 차례!,
-,gmet,Enemy Turn!,적 차례!,
-,gm12,You win!,이겼습니다!,
-,gm13,Level Up!,레벨 업!,
-,gm14,Get items!,아이템 얻기!,
-,gm14b,End Battle!,전투 끝내기!,
-,gm15,Not enough energy,에너지 부족,
-,gm16,Any items left outside the backpack will be lost,가방 밖의 아이템은 사라집니다,
-,gm17,Finished Reorganizing,재배치 완료,
-,gm18,Save Failed! The game was not saved!,저장에 실패했습니다!,
-,gm19,You have been cursed!,저주에 걸렸습니다!,
-,gm20,Skip /x items. ,/x개의 아이템을 무시합니다.,
-,gm20b,Take /x damage,/x의 피해를 받습니다,
-,gm21,Choose an item,아이템을 선택하세요,
-,gm22,Never Mind,됐어요,as a response when not selecting an item
-,gm23,You must place all items!,모든 아이템을 둬야 합니다!,
-,gm24,Cannot be combined with selected item,선택한 아이템과 조합할 수 없습니다,
-,gm25,Cannot be used!,사용할 수 없음!,
-,gm25b,Cannot be used right now,지금 사용할 수 없습니다,
-,gm26,Not enough connected Mana,연결된 마나가 부족합니다,
-,gm27,Not enough Gold,골드가 부족합니다,
-,gm27Halloween,You don't have a candy pail with 7 items!,사탕 통에 아이템 7개가 없습니다!,
-,gm28,No more uses this combat,이 전투에서 사용할 수 있는 횟수가 고갈됐습니다,
-,gm29,No more uses this turn,이 차례에서 사용할 수 있는 횟수가 고갈됐습니다,
-,gm30,No more uses,사용할 수 있는 횟수가 고갈됐습니다,
-,gm31,This item is disabled,이 아이템은 비활성화됐습니다,
-,gm32,Anchored,정박함,
-,gm33,Cannot move a curse,저주를 옮길 수 없습니다,
-,gm34,Cannot move here,여기로 옮길 수 없습니다,
-,gm35,Cannot afford,골드가 부족합니다,
-,gm36,Cannot place here,여기에 배치할 수 없습니다,
-,gm36a,Overlapping building,건물이 겹쳤습니다,
-,gm36b,Cannot build on water,물에는 건물을 지을 수 없습니다,
-,gm36c,Blocking entrance,입구가 막혔습니다,
-,gm36d,Must be near the woods!,숲 근처에 지으세요！,
-,gm36e,Out of Bounds,경계 밖입니다,
-,gm37,Finish Battle to Continue,계속하려면 전투를 끝내세요,
-,gm37b,You cannot leave this event,이벤트를 종료할 수 없습니다,
-,gm38,Can't move here!,여기로 이동할 수 없습니다!,
-,gm39,Pathway blocked!,길이 막혔습니다!,
-,gm40,Game Loaded,게임을 불러왔습니다,
-,gm41,Game Saved,게임을 저장했습니다,
-,gmillusory,Illusory spaces can only hold carvings,환상의 칸에는 인각만 넣을 수 있습니다,
-,gmPetBags,Pets can only hold treats!,펫은 간식만 들고 다닐 수 있습니다!,
-,retry,retry,다시 도전하기,
-,gm42,Choose /x spaces,/x개의 칸을 선택하세요,
-,gm43,Carvings cannot be played while reorganizing,재배치를 하는 중에는 인각을 사용할 수 없습니다,
-,gm44,You cannot leave this item behind: ,다음 아이템을 버리고 갈 수 없습니다:,
-,gm45,Item has an invalid placement,유효하지 않은 아이템 배치입니다,
-,gm46,Enter text. . .,텍스트를 입력하세요...,
-,gm47,More Game Modes!,더 많은 게임 모드!,
-,gm48,Item cannot be forged further,이미 강화한 아이템입니다,
-,gm49,This item can be upgraded /x time(s) at forges,이 아이템은 제련소에서 /x번 강화할 수 있습니다,
-,gm50,Already active,이미 활성화됐습니다,
-,gm51,Already summoned!,이미 소환했습니다!,
-,gm52,You must summon this pet!,이 펫을 소환해야 합니다!,
-,gm53,Pet is defeated!,펫이 기절했습니다!,
-,gm54,Only Pochette can carry this!,포셰트만 가질 수 있습니다!,
-,gm55,Too many pets!,펫이 너무 많습니다!,
-,gm56,Must have a pet in front!,앞에 펫이 있어야 합니다!,
-,gm57,Pet gains:,펫이 획득:,
-,gm58,You cannot remove an uncleansed curse,정화되지 않은 저주는 제거할 수 없습니다.,
-,gm59,Cannot use outside of battle,전투 중이 아닐 때는 사용할 수 없습니다,
-,gm60,Cannot use in battle,전투 중에는 사용할 수 없습니다,
-,gm61,Can only use when choosing combat rewards,전투 보상을 선택할 때만 사용할 수 있습니다,
-,gm62,Cannot use until you buy!,구매할 때까지는 사용할 수 없습니다!,
-,gm63,An item of this type can be used in research at Haversack Hill,이 유형의 아이템은 배낭 언덕에서 연구에 사용할 수 있습니다,
-,gm63b,This specific item can be used in research at Haversack Hill,이 특정 아이템은 배낭 언덕에서 연구에 사용할 수 있습니다,
-,gm63c,This item can be used in research that you bookmarked,이 아이템은 북마크한 연구에 사용할 수 있습니다,
-,gm64,Complete,완료,
-,gm64b,This item cannot be researched!,이 아이템은 연구할 수 없습니다!,
-,gm64c,This item has a use in Haversack Hill,이 아이템은 배낭 언덕에서 사용할 수 있습니다,
-,gm64d,Someone in Haversack Hill may know more!,해버색 힐의 누군가가 더 많은 것을 알고 있을지도 모릅니다!,
-,gm65,New Item Unlocked,새 아이템이 해금되었습니다,
-,gm65b,New Items Unlocked!,새 아이템이 해금되었습니다!,
-,gm66,A New Hero!,새 영웅!,
-,gm67,Current,현재,
-,gm68,Completed,완료,
-,gm69,Delete this save?,이 저장 기록을 삭제할까요?,
-,gm70,This cannot be undone!,되돌릴 수 없습니다!,
-,gm71,New Construction!,새 건축물!,
-,gm72,New Quest!,새 퀘스트!,
-,gm72b,New Lore!,새 이야기!,
-,gm72c,New Costume!,새 의상!,
-,gm72d,New Area!,새 구역!,
-,gm72e,New Unlock!,새 해금!,
-,gm73,Take All,모두 받기,
-,gm74,Give All,모두 주기,
-,gm74b,Give All (Non-Researchable),모두 주기 (연구 불가),
-,gm75,Sell Items,아이템 판매,
-,gm76,A mysterious relic,수수께끼의 유물,
-,gm77,Research,연구,
-,gm78,You don't know the way yet. Try again once you have gone deeper,아직 방법을 모릅니다. 더 깊이 들어간 후 다시 시도하세요,
-,gm79,Choose an item to save,저장할 아이템을 선택하세요,
-,gm80,Nothing Selected,선택하지 않았습니다,
-,gm81,Cannot be moved!,옮길 수 없습니다!,
-,gm82,Cannot place on water,물에는 배치할 수 없습니다,
-,gm83,Bridge cannot be placed here,여기에 다리를 배치할 수 없습니다,
-,gm84,To complete this research you need an item that is: <br>   /x <br>   /y,이 연구를 완료하려면 필요한 아이템: <br> /x <br> /y,E.G. To complete this research you need a rare weapon item
-,gm85,To complete this research you need /x /y,이 연구를 완료하려면 필요한 아이템: /x /y,E.G. To complete this research you need 100 food
-,gm86,Must be empty!,비어 있어야 합니다!,
-,gm87,Destroy,파괴,
-,gm88,Bookmark,북마크,
-,gm89,Core cannot be used indirectly,코어는 간접적으로 사용할 수 없습니다,
-,gm90,Relics cannot be refreshed,유물은 초기화할 수 없습니다,
-,gm91,Lucky!,대박!,
-,gm92,Not enough population!,인구가 부족합니다,
-,gm93,Sort By,정렬 기준, WARNING: ENGLISH PLACEHOLDER #####################################################
-,gm94,Name,이름, WARNING: ENGLISH PLACEHOLDER ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
-,gm95,Type,유형, WARNING: ENGLISH PLACEHOLDER ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
-,gm96,Rarity,희귀도, WARNING: ENGLISH PLACEHOLDER ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
-,gm97,Welcome to,배낭 언덕에 오신 걸,
-,gm97b,Haversack Hill,환영합니다,
-,gm98,Cannot be sold,판매 불가, WARNING: ENGLISH PLACEHOLDER #####################################################
-,gmAN1,"This game uses Unity Analytics to record player data. This is used exclusively to balance the game. By clicking ""Accept"" - you agree to share this data. If you cannot legally give permission, please click ""Do not accept""","이 게임은 유니티 애널리틱스를 이용해 플레이어 데이터를 기록합니다. 이 기록은 게임의 밸런스를 맞추기 위해서만 사용됩니다. ""동의""를 누름으로써, 이 데이터를 수집하는 데에 동의하실 수 있습니다. 만약 법적으로 권한을 줄 수 없다면, ""동의하지 않음""을 눌러주세요.",
-,gmanb1,Accept,동의,
-,gmanb2,Do not accept,동의하지 않음,
-,gmCR81,You cannot leave your core behind,코어는 버리고 갈 수 없습니다,
-,gmSatchel1,Items must be placed on a rune space!,아이템을 룬 칸에 배치해야 합니다!,
-,gmSatchel2,You can't move items once they're crammed in!,아이템이 꽉 차면 이동시킬 수 없습니다!,
-,gmSatchel3,There's no space to cram it in!,욱여넣을 칸이 없습니다!,
-,show backpack,show backpack,가방 보기,
-,show map,show map,지도 보기,
-Cinematic,cinematic1,"In the deep, dark dungeons beneath Orderia...",오데리아 지하 어둠이 짙은 던전 속에서,
-,cinematic2,A young packrat searches for treasure...,새끼 쥐가 보물을 찾고 있습니다,
-,cinematic3,There she discovers a mysterious relic...,그곳에는 신비한 유물이 있었습니다,
-,cinematicB1,"""The Dungeon"" used to be called ""The Bounty""",던전은 보물이라고도 불립니다,
-,cinematicB2,It gave us everything we dreamed of,던전에는 우리가 꿈꾸는 모든 것이 있습니다,
-,cinematicB3,But chaos is growing within...,하지만 혼란이 그 속에서 움트고 있죠,
-,cinematicEnd1,Oh Purse... I got all mixed up down here...,퍼스... 여긴 나 때문에 다 엉망이야...,  WARNING: ENGLISH TEXT CHANGED #####################################################
-,cinematicEnd2,I knew you would set everything right...,네가 모든 걸 바로잡을 줄 알았어..., WARNING: ENGLISH TEXT CHANGED #####################################################
-,endCredits1,Conglaturation,축하합니다!,
-,endCredits2,You have completed a great quest,당신은 위대한 퀘스트를 완료했습니다,
-,endCredits3,You truly are a Backpack Hero,당신은 진정한 백팩 영웅입니다,
-,endCredits1b,Congratulations!,축하합니다!,
-,endCredits2b,We hope you had fun!,즐거운 시간이 였기를 바랍니다!,
-,endCredits3b,Thank you for playing!,플레이해 주셔서 감사합니다!,
-Tote,gmTote1,Carvings must be placed in your Backpack,인각은 가방 안에 배치해야 합니다,
-,gmTote2,Carvings in hand,보유한 인각,
-,gmTote3,Discarded Carvings,버린 인각,
-,gmTote4,Banished Carvings,추방된 인각,
-Run Types,rt1,standard,일반,
-,rt1d,A basic run with no special settings!,특별한 설정 없는 기본적인 게임입니다!,
-,rt0t,Tutorial,튜토리얼,
-,rt0td,Learn to play as this character. Highly recommended!,이 캐릭터로 플레이하는 방법을 배우세요. 강력 추천!,
-,rt2,No experience,경험치 없이,
-,rt3,Bombs Away,폭탄 받아라,
-,rt4,Easy Mode,쉬운 모드,
-,rt5,Hard Mode,어려운 모드,
-,rt5b,Hard Mode 2,어려운 모드 2,
-,rt5c,Hard Mode 3,어려운 모드 3,
-,rt5dd,Hard Mode 4,어려운 모드 4,
-,rt5v5,Hard Mode 5,어려운 모드 5,
-,rt5e,Unfair Mode,불공정한 모드,
-,rt5f,Hard Puzzle Mode,어려운 퍼즐 모드,
-,rt6,Pauper Mode,거지 모드,
-,rt7,Glass Cannon,유리 대포,
-,rt8,5 by 5 challenge,5 대 5 챌린지,
-,rt8b,5 by 7 challenge,5 대 7 챌린지,
+,twitchLGeneral,General Settings,일반 설정,번역완료_enddl3788
+,twitchLPolls,Poll Settings,투표 설정,번역완료_enddl3788
+,twitchLPresets,Presets,프리셋,번역완료_enddl3788
+,twitchTDisableLoot,Disable regular combat rewards,일반 전투 보상 비활성화,번역완료_enddl3788
+,twitchLPollLength,Poll length in seconds,투표 시간 (초),번역완료_enddl3788
+,twitchLPollCount,Polls per combat,전투당 투표 수,번역완료_enddl3788
+,twitchLPositive,Positive,긍정적,번역완료_enddl3788
+,twitchLNegative,Negative,부정적,번역완료_enddl3788
+,twitchLSpecial,Special,특수,번역완료_enddl3788
+,twitchTItems,Specific Items,특정 아이템,번역완료_enddl3788
+,twitchTItemsType,Items By Type,종류별 아이템,번역완료_enddl3788
+,twitchTItemsRarity,Items By Rarity,희귀도별 아이템,번역완료_enddl3788
+,twitchTStatusPlayer,Status Effects (Player),상태 효과 (플레이어),번역완료_enddl3788
+,twitchTStatusEnemy,Status Effects (Enemy),상태 효과 (적),번역완료_enddl3788
+,twitchTBlessings,Blessings,축복,번역완료_enddl3788
+,twitchTHazards,Hazards,위험 요소,번역완료_enddl3788
+,twitchTCurses,Curses,저주,번역완료_enddl3788
+,twitchTDecideBoss,Decide Boss,보스 결정,번역완료_enddl3788
+,twitchTDecideRelic,Decide Relics,유물 결정,번역완료_enddl3788
+,twitchPresetCustom,Custom,사용자 정의,번역완료_enddl3788
+,twitchPresetAllEnabled,All Enabled,모두 활성화,번역완료_enddl3788
+,twitchPresetOnlyNegative,Chat is your enemy,채팅은 너의 적이다.,번역완료_enddl3788
+,twitchPresetOnlyPositive,Chat is your friend,채팅은 너의 친구다.,번역완료_enddl3788
+,twitchPresetChatLootOnly,Chat Loot Only,채팅으로 득템,번역완료_enddl3788
+,twitchPresetStatus,Through the fire and rage,피할 수 없는 역경과 치솟는 분노를 견디며,번역완료_enddl3788
+,twitchStatus,Status: /x,상태: /x,번역완료_enddl3788
+,twitchSNoAuth,Not Authenticated,인증되지 않음,번역완료_enddl3788
+,twitchSNotConnected,Not Connected,연결되지 않음,번역완료_enddl3788
+,twitchSConnectedTo,You’re all set! Connected to /y.,모든 설정 완료! /y에 연결되었습니다.,번역완료_enddl3788
+,twitchSAuthenticating,Authenticating…,인증 중...,번역완료_enddl3788
+,twitchSConnecting,Connecting…,연결 중...,번역완료_enddl3788
+,twitchSLoggedIn,"Logged In, but not connected.","로그인 완료, 그러나 연결되지 않음.",번역완료_enddl3788
+,twitchSAuthFail,Authentication failed! (Error /y),인증 실패! (오류 /y),번역완료_enddl3788
+,twitchSConnectFail,Connection failed! (Error /y),연결 실패! (오류 /y),번역완료_enddl3788
+,twitchPollTitleNext,What happens next?,다음에는 무엇을 할까요?,번역완료_enddl3788
+,twitchPollTitleBoss,Pick the next boss!,다음 보스를 선택하세요!,번역완료_enddl3788
+,twitchPollTitleRelic,Pick a relic!,유물을 선택하세요!,번역완료_enddl3788
+,twitchVote,Vote in chat!,채팅에서 투표하세요!,번역완료_enddl3788
+,Twitchtimevotes,"/x left, /y votes","/x 남음, /y표",번역완료_enddl3788
+,twitchvoted,voted,투표됨,번역완료_enddl3788
+,twitchPollChatMsg,“/x” has won the poll!,“/x”가 투표에서 승리했습니다!,번역완료_enddl3788
+,twitchPollResult,won with /x votes,/x표로 승리,번역완료_enddl3788
+,twitchPollItemType,Random /x item,랜덤 /x 아이템,번역완료_enddl3788
+,twitchPollItemRarity,Random /x item,랜덤 /x 아이템,번역완료_enddl3788
+,twitchItemCard,Spawns a random /x item on the next player turn.,다음 플레이어의 차례에 무작위 /x 아이템이 등장합니다.,번역완료_enddl3788
+,twitchCurseCard,Spawns a random curse on the next player turn.,다음 플레이어의 차례에 무작위 저주가 발생합니다.,번역완료_enddl3788
+,twitchBlessingCard,Spawns a random blessing on the next player turn.,다음 플레이어의 차례에 무작위 축복이 활성화됩니다.,번역완료_enddl3788
+,twitchPollStatusPlayer,+/x /y (Player),+/x /y (플레이어),번역완료_enddl3788
+,twitchPollStatusEnemy,+/x /y (Enemy),+/x /y (적),번역완료_enddl3788
+,twitchPollBlessing,Player gets blessed,플레이어가 축복을 받음,번역완료_enddl3788
+,twitchPollHazard,/x Hazard,/x 위험,번역완료_enddl3788
+,twitchPollCurse,Player gets cursed,플레이어가 저주에 걸렸습니다,번역완료_enddl3788
+,twitchDeathEx1,Oh no!,망할!,번역완료_enddl3788
+,twitchDeathEx2,Argh!,으악!,번역완료_enddl3788
+,twitchDeathEx3,Oof!,꺅!,번역완료_enddl3788
+,twitchDeathEx4,Oh well!,젠장!,번역완료_enddl3788
+,twitchDeathEx5,Sadge…,아깝네...,번역완료_enddl3788
+,twitchDeathEx6,Darn it!,이런!,번역완료_enddl3788
+,twitchDeathEx7,Better luck next time!,다음엔 행운을 빌어요!,번역완료_enddl3788
+,twitchDeathEx8,Try again!,다시 해보세요!,번역완료_enddl3788
+,twitchDeathChatMsg,/x /y has died /z times. (/w times this stream),/x /y님이 /z번 사망했습니다. (이번 방송에 /w번),번역완료_enddl3788
+,TwitchOrigin,Twitch,트위치,번역완료_enddl3788
+Early Access,earlyAccess1,"A message from developer Jas: <br><br>Thank you so much for supporting our game in early access! Backpack Hero isn't finished! New features and content is coming soon! If you have any concerns about the game, please contact us! We try to respond to everything we can on our social media and on Steam!","개발자 재스의 쪽지: <br><br>저희 게임을 얼리 액세스에서 후원해주셔서 감사드립니다! 백팩 히어로의 개발은 끝난 게 아닙니다! 새로운 기능과 콘텐츠들이 곧 업데이트될 예정입니다! 만약 게임에 목소리를 내고 싶으시다면, 저희에게 얘기해주세요! 저희는 SNS, 스토브, 스팀에서 여러분들과 소통하기 위해 최선을 다하고 있습니다!",번역완료_enddl3788
+,earlyAccess2,Next Major Update:,다음 주요 업데이트:,번역완료_enddl3788
+,earlyAccess3,January,1월,번역완료_enddl3788
+,earlyAccess3b,March,3월,번역완료_enddl3788
+,earlyAccess3c,April,4월,번역완료_enddl3788
+,earlyAccess3d,May and June,"5월, 6월",번역완료_enddl3788
+,earlyAccess3e,August,8월,번역완료_enddl3788
+,earlyAccess3f,September,9월,번역완료_enddl3788
+,earlyAccess4,Relic Redesigns,유물 리디자인,번역완료_enddl3788
+,earlyAccess4b,Item updates!,아이템 업데이트!,번역완료_enddl3788
+,earlyAccess4c,Mod Support!,모드 지원!,번역완료_enddl3788
+,earlyAccess4d,Enemy Rework,적 리워크,번역완료_enddl3788
+,earlyAccess4e,We're removing all curses!,모든 저주를 제거합니다!,번역완료_enddl3788
+,earlyAccess5,Thank you! From:,감사합니다! From:,번역완료_enddl3788
+demo Text,demo1,New characters and costumes are available in the full version!,새로운 캐릭터와 의상이 풀 버전에서 제공됩니다!,번역완료_enddl3788
+,demo2,Please wishlist and follow us on Steam now!,지금 바로 스팀에서 위시리스트에 추가하고 팔로우해주세요!,번역완료_enddl3788
+,demo3,Early Access begins August 2022!,얼리 액세스는 2022년 8월에 시작합니다!,번역완료_enddl3788
+,demo4,CR-8 coming July 2022!,2022년 7월에 새 캐릭터 CR-8를 기대하세요!,번역완료_enddl3788
+controller prompts,cpSelect,Select,선택,번역완료_enddl3788
+,cpExamine,Examine,조사,번역완료_enddl3788
+,cpContext Menu,Context Menu,내용 메뉴,번역완료_enddl3788
+,cpPlace,Place,두기,번역완료_enddl3788
+,cpUse,Use,사용,번역완료_enddl3788
+,cpDrop,Drop,버리기,번역완료_enddl3788
+,cpRotate,Rotate,회전,번역완료_enddl3788
+,cpSelect Enemy,Select Enemy,적 선택,번역완료_enddl3788
+,cpMove Here,Move Here,여기로 이동,번역완료_enddl3788
+,cpPick Up,Pick Up,줍기,번역완료_enddl3788
+,holdButton,hold,길게 누르기,번역완료_enddl3788
+,cpSwap,Swap,바꾸기,번역완료_enddl3788
+,pressToStart,Press /x to Start!,/x를 눌러 시작하세요!,번역완료_enddl3788
+options,opt1,Music Volume,음악 볼륨,번역완료_enddl3788
+,opt2,SFX Volume,효과음 볼륨,번역완료_enddl3788
+,opt3,Animation Speed,애니메이션 속도,번역완료_enddl3788
+,opt4,Brightness,밝기,번역완료_enddl3788
+,opt5,Rotate,회전,번역완료_enddl3788
+,opt5b,Click again to drop,다시 클릭하면 버립니다,번역완료_enddl3788
+,optt1,Emojis,이모지,번역완료_enddl3788
+,optt2,Combat Animations,전투 애니메이션,번역완료_enddl3788
+,opt6,FPS,FPS (초당 프레임),번역완료_enddl3788
+,opt7,Screen Size,화면 크기,번역완료_enddl3788
+,opt8,Quality,화질,번역완료_enddl3788
+,opt8b,Resolution,해상도,번역완료_enddl3788
+,opt9,Language,언어,번역완료_enddl3788
+,opt10,Return to Menu,메뉴로 돌아가기,번역완료_enddl3788
+,opt11,Delete on Game Over,게임 오버 시 삭제,번역완료_enddl3788
+,opt12,No save games,저장된 게임 없음,번역완료_enddl3788
+,opt13,Delete all progress!,모든 진행 사항 삭제!,번역완료_enddl3788
+,opt13b,Delete all save games,모든 저장 데이터 삭제,번역완료_enddl3788
+,opt13c,Reset all tutorials,튜토리얼 초기화,번역완료_enddl3788
+,opt14,Are you sure?,정말 진행할까요?,번역완료_enddl3788
+,opt14b,Leave this behind?,이걸 남기고 떠나시겠습니까?,번역완료_enddl3788
+,opt15,Yes,네,번역완료_enddl3788
+,opt16,No,아니요,번역완료_enddl3788
+,opt17,Auto-close map,맵 자동 닫기,번역완료_enddl3788
+,optQQ,Group ID /x copied!,그룹 ID /x 복사됨!,번역완료_enddl3788
+,opt18,Cursor Speed,커서 속도,번역완료_enddl3788
+,opt19,Highlight Items,아이템 강조 표시,번역완료_enddl3788
+,opt20,Controller Icons,컨트롤러 아이콘,번역완료_enddl3788
+,opt21,Return to Orderia,규율의 땅으로 돌아가기,번역완료_enddl3788
+,opt21d,This run will be lost,이번 게임은 저장되지 않습니다,번역완료_enddl3788
+,opt22,This run will be saved,이번 게임은 저장됩니다,번역완료_enddl3788
+,opt23,Run cannot be saved here!,여기서는 저장할 수 없습니다!,번역완료_enddl3788
+,opt24,Snap to Building Grid,건물 격자에 붙이기,번역완료_enddl3788
+,optHoliday,Enable Holiday Events,휴일 이벤트 활성화,번역완료_enddl3788
+,optHolidayMSG,Please restart the game!,게임을 재시작 해주세요!,번역완료_enddl3788
+,opt25,Reverse A and B,A 버튼과 B 버튼 반전,번역완료_enddl3788
+,opt26,Reverse X and Y ,X 축과 Y 축 반전,번역완료_enddl3788
+,optH1,Audio,오디오,번역완료_enddl3788
+,optH2,Presentation,디스플레이,번역완료_enddl3788
+,optH3,Gameplay,게임플레이,번역완료_enddl3788
+,optH4,Social Media,SNS,번역완료_enddl3788
+,optH5,Reset Data,데이터 초기화,번역완료_enddl3788
+,clickMe,Click me!,클릭하세요!,번역완료_enddl3788
+,sellHere,Drag to me to Sell,드래그해서 판매하세요,번역완료_enddl3788
+,removeHere,I can remove a carving - for a price,조각상 하나를 없애주지... 값만 제대로 치른다면.,번역완료_enddl3788
+,cantSell,I don't buy those!,그런 건 안 살 거야!,번역완료_enddl3788
+,noMoreSale,I won't take more items!,아이템은 이제 그만!,번역완료_enddl3788
+,on,on,켜짐,번역완료_enddl3788
+,off,off,꺼짐,번역완료_enddl3788
+,windowed,windowed,창 모드,번역완료_enddl3788
+,full screen,full screen,전체화면,번역완료_enddl3788
+,borderless,borderless,테두리 없는 창,번역완료_enddl3788
+,unlimited,unlimited,무제한,번역완료_enddl3788
+,low,low,낮음,번역완료_enddl3788
+,medium,medium,중간,번역완료_enddl3788
+,high,high,높음,번역완료_enddl3788
+Item Atlas,ia1,Can only be found by:,다음 조건에서만 발견 가능:,번역완료_enddl3788
+,ia2,Can only be found in:,다음 장소에서만 발견 가능:,번역완료_enddl3788
+,ia3,Created by:,만든이:,번역완료_enddl3788
+context menu,cm1,View card,카드 보기,번역완료_enddl3788
+,cm2,Use item,아이템 사용,번역완료_enddl3788
+,cm3,Use Item Max Times,아이템 최대 사용 횟수,번역완료_enddl3788
+,cm4,Reroll Items,아이템 재선택,번역완료_enddl3788
+,cm5,Discover passage,통로 발견,번역완료_enddl3788
+,cm6,Summon enemies,적 소환,번역완료_enddl3788
+,cm7,Add reward,보상 추가,번역완료_enddl3788
+,cm8,Duplicate potion,포션 복제,번역완료_enddl3788
+,cm9,Combine potions,포션 합성,번역완료_enddl3788
+,cm10,Flip switch,스위치 작동,번역완료_enddl3788
+,cm11,Return carving,조각상 반환,번역완료_enddl3788
+,cm12,Remove carving,조각상 제거,번역완료_enddl3788
+,cm13,Open Pouch,주머니 열기,번역완료_enddl3788
+,cm14,Close Pouch,주머니 닫기,번역완료_enddl3788
+,cm15,View Inventory,인벤토리 보기,번역완료_enddl3788
+,cm16,Recall Pet,펫 호출,번역완료_enddl3788
+,cm17,Sell,판매하기,번역완료_enddl3788
+,cm18,Unlock,잠금 해제,번역완료_enddl3788
+,cm19,Transform,변환,번역완료_enddl3788
+,cm20,Alternate Use,대체 사용,번역완료_enddl3788
+,cm20expl,Used with these types: /x,다음 유형과 함께 사용됨: /x,번역완료_enddl3788
+,cm20explAny,Used with another item,다른 아이템과 함께 사용됨,번역완료_enddl3788
+,cm21,Deselect,선택 해제,번역완료_enddl3788
+,cm22,View Research,연구 보기,번역완료_enddl3788
+gameManagerMessages,gmreo,Reorganize now to claim this item!,지금 재배치하면 이 아이템을 획득할 수 있습니다!,번역완료_enddl3788
+,gm1,Finished!,완료!,번역완료_enddl3788
+,gm2,Must be in an empty room!,빈 방에 있어야 합니다!,번역완료_enddl3788
+,gm3,Cannot save right now!,지금은 저장할 수 없습니다!,번역완료_enddl3788
+,gm4,Complete tutorial to save!,튜토리얼 완료 후 저장 가능!,번역완료_enddl3788
+,gm5,Cannnot save while moving!,이동 중에는 저장할 수 없습니다!,번역완료_enddl3788
+,gm6,Finale,최종전,번역완료_enddl3788
+,gm7,Part /x of /y,/y중 /x번째,번역완료_enddl3788
+,gm7bn,Endless Mode,끝없는 모드,번역완료_enddl3788
+,gm7b,Loop Number: /x,반복 횟수: /x,번역완료_enddl3788
+,gm8,Finished Choosing,선택 완료,번역완료_enddl3788
+,gm9,Can't take more items,더 이상 아이템을 받을 수 없습니다,번역완료_enddl3788
+,gm10,Take /x items,/x개 아이템 획득,번역완료_enddl3788
+,gm11,Take 1 item,1개 아이템 획득,번역완료_enddl3788
+,gmb,Battle Start!,전투 시작!,번역완료_enddl3788
+,gmpt,Player Turn!,플레이어 턴!,번역완료_enddl3788
+,gmet,Enemy Turn!,적 턴!,번역완료_enddl3788
+,gm12,You win!,승리했습니다!,번역완료_enddl3788
+,gm13,Level Up!,레벨 업!,번역완료_enddl3788
+,gm14,Get items!,아이템 획득!,번역완료_enddl3788
+,gm14b,End Battle!,전투 종료!,번역완료_enddl3788
+,gm15,Not enough energy,에너지가 부족합니다,번역완료_enddl3788
+,gm16,Any items left outside the backpack will be lost,백팩 밖에 남은 아이템은 모두 사라집니다,번역완료_enddl3788
+,gm17,Finished Reorganizing,재배치 완료,번역완료_enddl3788
+,gm18,Save Failed! The game was not saved!,저장 실패! 게임이 저장되지 않았습니다!,번역완료_enddl3788
+,gm19,You have been cursed!,저주에 걸렸습니다!,번역완료_enddl3788
+,gm20,Skip /x items. ,/x개의 아이템을 무시합니다.,번역완료_enddl3788
+,gm20b,Take /x damage,/x의 피해를 받습니다,번역완료_enddl3788
+,gm21,Choose an item,아이템을 선택하세요,번역완료_enddl3788
+,gm22,Never Mind,괜찮아요,번역완료_enddl3788
+,gm23,You must place all items!,모든 아이템을 배치해야 합니다!,번역완료_enddl3788
+,gm24,Cannot be combined with selected item,선택한 아이템과 합칠 수 없습니다,번역완료_enddl3788
+,gm25,Cannot be used!,사용할 수 없습니다!,번역완료_enddl3788
+,gm25b,Cannot be used right now,지금은 사용할 수 없습니다,번역완료_enddl3788
+,gm26,Not enough connected Mana,연결된 마나가 부족합니다,번역완료_enddl3788
+,gm27,Not enough Gold,골드가 부족합니다,번역완료_enddl3788
+,gm27Halloween,You don't have a candy pail with 7 items!,사탕통에 아이템 7개가 있어야 합니다!,번역완료_enddl3788
+,gm28,No more uses this combat,이번 전투에서는 더 이상 사용할 수 없습니다,번역완료_enddl3788
+,gm29,No more uses this turn,이번 턴에서는 더 이상 사용할 수 없습니다,번역완료_enddl3788
+,gm30,No more uses,더 이상 사용할 수 없습니다,번역완료_enddl3788
+,gm31,This item is disabled,이 아이템은 비활성화 되어 있습니다,번역완료_enddl3788
+,gm32,Anchored,고정됨,번역완료_enddl3788
+,gm33,Cannot move a curse,저주를 이동할 수 없습니다,번역완료_enddl3788
+,gm34,Cannot move here,여기로 이동할 수 없습니다,번역완료_enddl3788
+,gm35,Cannot afford,골드가 부족합니다,번역완료_enddl3788
+,gm36,Cannot place here,여기에 배치할 수 없습니다,번역완료_enddl3788
+,gm36a,Overlapping building,건물이 겹칩니다,번역완료_enddl3788
+,gm36b,Cannot build on water,물 위에는 건설할 수 없습니다,번역완료_enddl3788
+,gm36c,Blocking entrance,입구를 막고 있습니다,번역완료_enddl3788
+,gm36d,Must be near the woods!,숲 근처에 있어야 합니다!,번역완료_enddl3788
+,gm36e,Out of Bounds,영역 밖입니다,번역완료_enddl3788
+,gm37,Finish Battle to Continue,전투를 완료해야 진행할 수 있습니다,번역완료_enddl3788
+,gm37b,You cannot leave this event,이 이벤트에서는 나갈 수 없습니다,번역완료_enddl3788
+,gm38,Can't move here!,여기로 이동할 수 없습니다!,번역완료_enddl3788
+,gm39,Pathway blocked!,길이 막혔습니다!,번역완료_enddl3788
+,gm40,Game Loaded,게임 불러오기 완료,번역완료_enddl3788
+,gm41,Game Saved,게임 저장 완료,번역완료_enddl3788
+,gmillusory,Illusory spaces can only hold carvings,환영 공간에는 조각상만 놓을 수 있습니다,번역완료_enddl3788
+,gmPetBags,Pets can only hold treats!,펫은 간식만 들 수 있습니다!,번역완료_enddl3788
+,retry,retry,다시 도전하기,번역완료_enddl3788
+,gm42,Choose /x spaces,/x개의 칸을 선택하세요,번역완료_enddl3788
+,gm43,Carvings cannot be played while reorganizing,재배치를 하는 중에는 조각상을 사용할 수 없습니다,번역완료_enddl3788
+,gm44,You cannot leave this item behind: ,이 아이템은 두고 갈 수 없습니다:,번역완료_enddl3788
+,gm45,Item has an invalid placement,아이템 배치가 올바르지 않습니다,번역완료_enddl3788
+,gm46,Enter text. . .,텍스트를 입력하세요...,번역완료_enddl3788
+,gm47,More Game Modes!,더 많은 게임 모드!,번역완료_enddl3788
+,gm48,Item cannot be forged further,이 아이템은 더 이상 강화할 수 없습니다,번역완료_enddl3788
+,gm49,This item can be upgraded /x time(s) at forges,이 아이템은 제련소에서 /x번 강화할 수 있습니다,번역완료_enddl3788
+,gm50,Already active,이미 활성화됨,번역완료_enddl3788
+,gm51,Already summoned!,이미 소환됨!,번역완료_enddl3788
+,gm52,You must summon this pet!,이 펫을 소환해야 합니다!,번역완료_enddl3788
+,gm53,Pet is defeated!,펫이 쓰러졌습니다!,번역완료_enddl3788
+,gm54,Only Pochette can carry this!,포셰트만 들 수 있습니다!,번역완료_enddl3788
+,gm55,Too many pets!,펫이 너무 많습니다!,번역완료_enddl3788
+,gm56,Must have a pet in front!,앞에 펫이 있어야 합니다!,번역완료_enddl3788
+,gm57,Pet gains:,펫 효과:,번역완료_enddl3788
+,gm58,You cannot remove an uncleansed curse,정화되지 않은 저주는 제거할 수 없습니다,번역완료_enddl3788
+,gm59,Cannot use outside of battle,전투 외에는 사용할 수 없습니다,번역완료_enddl3788
+,gm60,Cannot use in battle,전투 중에는 사용할 수 없습니다,번역완료_enddl3788
+,gm61,Can only use when choosing combat rewards,전투 보상 선택 중에만 사용할 수 있습니다,번역완료_enddl3788
+,gm62,Cannot use until you buy!,구매 전까지는 사용할 수 없습니다!,번역완료_enddl3788
+,gm63,An item of this type can be used in research at Haversack Hill,이 유형의 아이템은 배낭 언덕에서 연구에 사용될 수 있습니다,번역완료_enddl3788
+,gm63b,This specific item can be used in research at Haversack Hill,이 특정 아이템은 배낭 언덕의 연구에 사용될 수 있습니다,번역완료_enddl3788
+,gm63c,This item can be used in research that you bookmarked,이 아이템은 즐겨찾기한 연구에 사용할 수 있습니다,번역완료_enddl3788
+,gm64,Complete,완료됨,번역완료_enddl3788
+,gm64b,This item cannot be researched!,이 아이템은 연구할 수 없습니다!,번역완료_enddl3788
+,gm64c,This item has a use in Haversack Hill,이 아이템은 배낭 언덕에서 쓰임새가 있습니다,번역완료_enddl3788
+,gm64d,Someone in Haversack Hill may know more!,배낭 언덕의 누군가가 더 많은 정보를 알고 있을지도!,번역완료_enddl3788
+,gm65,New Item Unlocked,새로운 아이템 잠금 해제,번역완료_enddl3788
+,gm65b,New Items Unlocked!,새로운 아이템들 잠금 해제!,번역완료_enddl3788
+,gm66,A New Hero!,새로운 영웅 등장!,번역완료_enddl3788
+,gm67,Current,현재 진행 중,번역완료_enddl3788
+,gm68,Completed,완료됨,번역완료_enddl3788
+,gm69,Delete this save?,이 저장 데이터를 삭제할까요?,번역완료_enddl3788
+,gm70,This cannot be undone!,이 작업은 되돌릴 수 없습니다!,번역완료_enddl3788
+,gm71,New Construction!,새로운 건설 가능!,번역완료_enddl3788
+,gm72,New Quest!,새로운 퀘스트!,번역완료_enddl3788
+,gm72b,New Lore!,새로운 이야기!,번역완료_enddl3788
+,gm72c,New Costume!,새로운 의상!,번역완료_enddl3788
+,gm72d,New Area!,새로운 지역 발견!,번역완료_enddl3788
+,gm72e,New Unlock!,새로운 해금 요소!,번역완료_enddl3788
+,gm73,Take All,모두 받기,번역완료_enddl3788
+,gm74,Give All,모두 주기,번역완료_enddl3788
+,gm74b,Give All (Non-Researchable),모두 주기 (연구 불가 아이템),번역완료_enddl3788
+,gm75,Sell Items,아이템 판매,번역완료_enddl3788
+,gm76,A mysterious relic,수상한 유물,번역완료_enddl3788
+,gm77,Research,연구하기,번역완료_enddl3788
+,gm78,You don't know the way yet. Try again once you have gone deeper,아직 길을 알지 못합니다. 더 깊이 들어가 보세요,번역완료_enddl3788
+,gm79,Choose an item to save,저장할 아이템을 선택하세요,번역완료_enddl3788
+,gm80,Nothing Selected,선택된 항목 없음,번역완료_enddl3788
+,gm81,Cannot be moved!,이동할 수 없습니다!,번역완료_enddl3788
+,gm82,Cannot place on water,물 위에는 배치할 수 없습니다,번역완료_enddl3788
+,gm83,Bridge cannot be placed here,다리는 여기에 놓을 수 없습니다,번역완료_enddl3788
+,gm84,To complete this research you need an item that is: <br>   /x <br>   /y,이 연구를 완료하려면 다음 조건의 아이템이 필요합니다: <br> /x <br> /y,번역완료_enddl3788
+,gm85,To complete this research you need /x /y,이 연구를 완료하려면 /x /y 아이템이 필요합니다,번역완료_enddl3788
+,gm86,Must be empty!,비어 있어야 합니다!,번역완료_enddl3788
+,gm87,Destroy,파괴하기,번역완료_enddl3788
+,gm88,Bookmark,북마크 추가,번역완료_enddl3788
+,gm89,Core cannot be used indirectly,코어는 간접적으로 사용할 수 없습니다,번역완료_enddl3788
+,gm90,Relics cannot be refreshed,유물은 새로 고침할 수 없습니다,번역완료_enddl3788
+,gm91,Lucky!,대박!,번역완료_enddl3788
+,gm92,Not enough population!,인구가 부족합니다!,번역완료_enddl3788
+,gm93,Sort By,정렬 기준,번역완료_enddl3788
+,gm94,Name,이름,번역완료_enddl3788
+,gm95,Type,종류,번역완료_enddl3788
+,gm96,Rarity,희귀도,번역완료_enddl3788
+,gm97,Welcome to,"환영합니다,",번역완료_enddl3788
+,gm97b,Haversack Hill,해버색 힐에 오신 걸!,번역완료_enddl3788
+,gm98,Cannot be sold,판매할 수 없습니다,번역완료_enddl3788
+,gmAN1,"This game uses Unity Analytics to record player data. This is used exclusively to balance the game. By clicking ""Accept"" - you agree to share this data. If you cannot legally give permission, please click ""Do not accept""","이 게임은 유니티 애널리틱스를 이용해 플레이어 데이터를 기록합니다. 이 기록은 게임의 밸런스를 맞추기 위해서만 사용됩니다. ""동의""를 누름으로써, 이 데이터를 수집하는 데에 동의하실 수 있습니다. 만약 법적으로 권한을 줄 수 없다면, ""동의하지 않음""을 눌러주세요.",번역완료_enddl3788
+,gmanb1,Accept,동의함,번역완료_enddl3788
+,gmanb2,Do not accept,동의하지 않음,번역완료_enddl3788
+,gmCR81,You cannot leave your core behind,코어는 두고 갈 수 없습니다,번역완료_enddl3788
+,gmSatchel1,Items must be placed on a rune space!,아이템은 룬 칸에만 배치할 수 있습니다!,번역완료_enddl3788
+,gmSatchel2,You can't move items once they're crammed in!,아이템이 꽉 차면 이동시킬 수 없어요!,번역완료_enddl3788
+,gmSatchel3,There's no space to cram it in!,욱여넣을 칸이 없습니다!,번역완료_enddl3788
+,show backpack,show backpack,가방 보기,번역완료_enddl3788
+,show map,show map,지도 보기,번역완료_enddl3788
+Cinematic,cinematic1,"In the deep, dark dungeons beneath Orderia...",규율의 땅 깊숙한 어두운 던전 속...,번역완료_enddl3788
+,cinematic2,A young packrat searches for treasure...,새끼 쥐가 보물을 찾아 떠납니다...,번역완료_enddl3788
+,cinematic3,There she discovers a mysterious relic...,그곳에서 그녀는 신비한 유물을 발견하죠...,번역완료_enddl3788
+,cinematicB1,"""The Dungeon"" used to be called ""The Bounty""","""던전""은 원래 '현상금 사냥터'라 불렸습니다.",번역완료_enddl3788
+,cinematicB2,It gave us everything we dreamed of,우리는 그곳에서 꿈꾸던 모든 걸 얻었지만...,번역완료_enddl3788
+,cinematicB3,But chaos is growing within...,혼돈이 그 안에서 자라고 있어요...,번역완료_enddl3788
+,cinematicEnd1,Oh Purse... I got all mixed up down here...,"오, 퍼스... 여긴 너무 혼란스러워졌어요...",번역완료_enddl3788
+,cinematicEnd2,I knew you would set everything right...,당신이라면 모든 걸 바로잡을 수 있을 줄 알았어요...,번역완료_enddl3788
+,endCredits1,Conglaturation,축하합니다!,번역완료_enddl3788
+,endCredits2,You have completed a great quest,위대한 여정을 완수하셨습니다,번역완료_enddl3788
+,endCredits3,You truly are a Backpack Hero,당신은 진정한 백팩 히어로입니다,번역완료_enddl3788
+,endCredits1b,Congratulations!,정말 축하드려요!,번역완료_enddl3788
+,endCredits2b,We hope you had fun!,즐겁게 플레이하셨길 바랍니다!,번역완료_enddl3788
+,endCredits3b,Thank you for playing!,플레이해 주셔서 감사합니다!,번역완료_enddl3788
+Tote,gmTote1,Carvings must be placed in your Backpack,조각상은 가방 안에 배치해야 합니다,번역완료_enddl3788
+,gmTote2,Carvings in hand,보유한 조각상,번역완료_enddl3788
+,gmTote3,Discarded Carvings,버린 조각상,번역완료_enddl3788
+,gmTote4,Banished Carvings,추방된 조각상,번역완료_enddl3788
+Run Types,rt1,standard,표준,번역완료_enddl3788
+,rt1d,A basic run with no special settings!,특별한 설정 없이 즐기는 기본 도전!,번역완료_enddl3788
+,rt0t,Tutorial,튜토리얼,번역완료_enddl3788
+,rt0td,Learn to play as this character. Highly recommended!,이 캐릭터의 조작을 배워보세요. 적극 추천!,번역완료_enddl3788
+,rt2,No experience,경험치 없이,번역완료_enddl3788
+,rt3,Bombs Away,폭탄 받아라,번역완료_enddl3788
+,rt4,Easy Mode,이지 모드,번역완료_enddl3788
+,rt5,Hard Mode,하드 모드,번역완료_enddl3788
+,rt5b,Hard Mode 2,하드 모드 2,번역완료_enddl3788
+,rt5c,Hard Mode 3,하드 모드 3,번역완료_enddl3788
+,rt5dd,Hard Mode 4,하드 모드 4,번역완료_enddl3788
+,rt5v5,Hard Mode 5,하드 모드 5,번역완료_enddl3788
+,rt5e,Unfair Mode,불공정한 모드,번역완료_enddl3788
+,rt5f,Hard Puzzle Mode,하드 퍼즐 모드,번역완료_enddl3788
+,rt6,Pauper Mode,거지 모드,번역완료_enddl3788
+,rt7,Glass Cannon,유리 대포 모드,번역완료_enddl3788
+,rt8,5 by 5 challenge,5x5 도전,번역완료_enddl3788
+,rt8b,5 by 7 challenge,5x7 도전,번역완료_enddl3788
 ,rt9,Another way,다른 길,
 ,rt10,Big Mode,큰 모드,
 ,rt11,Classic Matthew,일반 매튜,
@@ -549,11 +549,11 @@ tutorials,tut1,In combat you click items to use them. You must defeat all enemie
 ,tutCR87,"Once a charge has 0 energy, it is destroyed. Use any 0 energy items first","전하의 에너지가 다 떨어질 경우, 파괴됩니다. 에너지를 사용하지 않는 아이템들을 먼저 사용하세요.",
 ,tutCR88,Some items create charges on their own!,특정한 아이템들은 스스로 전하를 만들어냅니다!,
 ,tutCR89,"When an item is used, it gains heat. Some items have a red ""heat limit"" at the bottom of their card",아이템을 사용하면 열기를 얻습니다. 일부 아이템은 카드 하단에 빨간색 '열기 제한'이 표시되어 있습니다.,
-,tutTote1,Each turn Tote draws carvings. Drag them to your bag to summon them.,매 차례 토트는 3개의 인각을 뽑습니다. 인각을 가방으로 드래그해 소환하세요.,
-,tutTote2,Some carvings can be used after they are summoned.,어떤 인각은 소환된 다음에 사용할 수 있습니다.,
-,tutTote3,Some carvings have a cost to summon - shown at the bottom of the card.,어떤 인각은 카드 아래에 쓰여진 대가를 치르고 소환할 수 있습니다.,
-,tutTote4,"Discarded carvings can be drawn again. Banished carvings are removed for the rest of combat. You can ""Toss"" your carvings to discard them - and do damage!",버려진 인각은 다시 뽑을 수 있습니다. 추방된 인각은 전투가 끝날 때까지 사용할 수 없습니다,
-,tutTote5,Move carvings to your deck to collect them. Removing them later will cost money!,인각을 덱으로 옮겨 획득하세요. 나중에 인각을 지우는 데에는 돈이 들어갑니다!,
+,tutTote1,Each turn Tote draws carvings. Drag them to your bag to summon them.,매 차례 토트는 3개의 조각상을 뽑습니다. 조각상을 가방으로 드래그해 소환하세요.,
+,tutTote2,Some carvings can be used after they are summoned.,어떤 조각상은 소환된 다음에 사용할 수 있습니다.,
+,tutTote3,Some carvings have a cost to summon - shown at the bottom of the card.,어떤 조각상은 카드 아래에 쓰여진 대가를 치르고 소환할 수 있습니다.,
+,tutTote4,"Discarded carvings can be drawn again. Banished carvings are removed for the rest of combat. You can ""Toss"" your carvings to discard them - and do damage!",버려진 조각상은 다시 뽑을 수 있습니다. 추방된 조각상은 전투가 끝날 때까지 사용할 수 없습니다,
+,tutTote5,Move carvings to your deck to collect them. Removing them later will cost money!,조각상을 덱으로 옮겨 획득하세요. 나중에 조각상을 지우는 데에는 돈이 들어갑니다!,
 ,tut-satchelTutorial,Satchel's Backpack,사첼의 가방,Satchel's Backpack
 ,tut-satchelTutorial1,"Satchel's backpack is torn! When he levels up, he can add new spaces into his bag. The spaces do not need to be adjacent to other spaces. You can create disconnected shapes!  <br><br>Each section of blocks is called a ""Pocket"". If the blocks are adjacent, they are part of the same pocket. If they are not touching, they are part of different pockets. You can have many pockets in your backpack!","사첼의 가방은 찢어져 있습니다! 사첼의 레벨이 오르면, 가방에 새로운 칸을 추가할 수 있는데, 이 칸들은 다른 칸과 인접하지 않아도 됩니다. 연결되지 않은 모양들을 만들어보세요! <br><br>모여있는 칸들을 하나의 ""주머니""라고 부릅니다. 연결되어있는 칸들은 같은 주머니에 있는 것으로 칩니다. 연결되지 않은 칸들은 다른 주머니에 있는 것으로 칩니다. 가방 안에는 원하는 만큼의 주머니를 만들 수 있습니다!","Satchel's backpack is torn! When he levels up, he can add new spaces into his bag. The spaces do not need to be adjacent to other spaces. You can create disconnected shapes!  <br><br>Each section of blocks is called a ""Pocket"". If the blocks are adjacent, they are part of the same pocket. If they are not touching, they are part of different pockets. You can have many pockets in your backpack!"
 ,tut-forgeTutorial,The Forge,제련소,
@@ -576,14 +576,14 @@ tutorials,tut1,In combat you click items to use them. You must defeat all enemie
 ,tut-blessings1,Blessings create temporary items that can give you an advantage in Battle! They'll be destroyed when the fight ends. <br><br>Blessings can be placed over other items. But beware! You cannot select items that are beneath blessings. Place them carefully!,축복은 전투에서 유리한 항목을 만들 수 있는 임시 아이템을 생성합니다!전투 종료 시 아이템은 파괴됩니다.<br><br>축복은 다른 아이템 위에 놓을 수 있습니다. 하지만 여기서 주의! 축복 아래에 있는 아이템은 선택할 수 없으니 신중하게 배치하세요!,
 ,tut-hazards,Hazards,위험 요소,
 ,tut-hazards1,"Some enemies will create Hazards, forcing you to add them to your Backpack! They can be placed in empty spaces or on top of items. <br><br>Be careful where you place them. These special items have negative effects and any item that is completely covered by hazards will be disabled. Hazards will be removed at the end of combat - if you survive!","일부 적들은 가방에 넣어야 하는 위험 요소를 생성합니다! 위험 요소는 빈칸이나 아이템 위에 놓을 수 있습니다. <br><br>배치 위치에 주의하세요. 위험 요소에는 부정적인 효과가 있으며, 위험 요소로 완전히 덮인 아이템은 사용할 수 없게 됩니다. 위험 요소는 전투가 끝나고 생존하면 제거됩니다!",
-,tut-ToteA,Carvings,인각,
-,tut-ToteA1,"Tote draws carvings each turn! These special items can be placed into her Backpack. When she places a carving, she ""summons"" it. <br><br>Many carvings have effects on summon!","토트는 매 차례 인각을 뽑습니다. 인각은 가방에 넣을 수 있습니다. 인각을 놓으면 ""소환""합니다.<br><br>많은 인각에는 소환 효과가 있습니다!",
+,tut-ToteA,Carvings,조각상,
+,tut-ToteA1,"Tote draws carvings each turn! These special items can be placed into her Backpack. When she places a carving, she ""summons"" it. <br><br>Many carvings have effects on summon!","토트는 매 차례 조각상을 뽑습니다. 조각상은 가방에 넣을 수 있습니다. 조각상을 놓으면 ""소환""합니다.<br><br>많은 조각상에는 소환 효과가 있습니다!",
 ,tut-ToteBb,Toss!,토스!,
-,tut-ToteBb1,"Tote's backpack gets full quickly!  ""Toss"" discards all carvings from her backpack. Use this whenever you need more space to summon new carvings! She can draw them again later. <br><br>Toss also does damage! For each carving that is discarded, Tote deals additional damage to her target!","토트의 가방은 빨리 찹니다! ""토스""는 가방에 있는 인각을 모두 버립니다. 새 인각을 소환할 칸이 필요하다면 이 방법을 사용하세요! 나중에 다시 뽑을 수 있습니다. <br><br>토스는 피해를 입히기도 합니다! 토스로 버리는 인각 하나당 토트가 선택한 적에게 추가 피해를 입힙니다!",
-,tut-ToteC,New Carvings,새 인각,
-,tut-ToteC1,"When Tote gets new carvings, she adds them to her deck.  Be careful which ones you choose! You can't drop them later. <br><br>Stores can remove carvings - for a price!",토트는 새로운 인각을 얻으면 덱에 추가합니다. 신중하게 선택하세요! 나중엔 버릴 수 없습니다. <br><br>상점에서는 돈을 내고 인각을 제거할 수 있습니다.,
-,tut-ToteBanish,Banished Carvings,추방된 인각,
-,tut-ToteBanish1,"When a carving is banished, it is removed for the rest of this fight.",인각이 추방되면 이번 전투에서 제외됩니다.,
+,tut-ToteBb1,"Tote's backpack gets full quickly!  ""Toss"" discards all carvings from her backpack. Use this whenever you need more space to summon new carvings! She can draw them again later. <br><br>Toss also does damage! For each carving that is discarded, Tote deals additional damage to her target!","토트의 가방은 빨리 찹니다! ""토스""는 가방에 있는 조각상을 모두 버립니다. 새 조각상을 소환할 칸이 필요하다면 이 방법을 사용하세요! 나중에 다시 뽑을 수 있습니다. <br><br>토스는 피해를 입히기도 합니다! 토스로 버리는 조각상 하나당 토트가 선택한 적에게 추가 피해를 입힙니다!",
+,tut-ToteC,New Carvings,새 조각상,
+,tut-ToteC1,"When Tote gets new carvings, she adds them to her deck.  Be careful which ones you choose! You can't drop them later. <br><br>Stores can remove carvings - for a price!",토트는 새로운 조각상을 얻으면 덱에 추가합니다. 신중하게 선택하세요! 나중엔 버릴 수 없습니다. <br><br>상점에서는 돈을 내고 조각상을 제거할 수 있습니다.,
+,tut-ToteBanish,Banished Carvings,추방된 조각상,
+,tut-ToteBanish1,"When a carving is banished, it is removed for the rest of this fight.",조각상이 추방되면 이번 전투에서 제외됩니다.,
 ,tut-combatTutorial1,Combat!,전투!,
 ,tut-combatTutorial11,"In combat you click items to use them. You must defeat all enemies to continue. <br><br>Many items, including your sword and shield, require energy. Once you are out of energy, you should end your turn. Then the enemy will act!",전투 중에는 아이템을 클릭해 사용할 수 있습니다. 적을 모두 무찔러야 진행할 수 있습니다. <br><br>검과 방패 등 사용하려면 에너지가 필요한 아이템이 많습니다. 에너지가 부족하면 턴을 마치세요. 그럼 적이 움직입니다!,
 ,tut-combatTutorial2,Enemy Intentions,적의 생각,
@@ -633,7 +633,7 @@ enemies,Armadillo,Armadillo,아르마딜로,
 ,Frog Wizard,Frog Wizard,개구리 마법사,
 ,Frog Wizard1,Frogs know about a deep magic that appears on rare Wednesdays,개구리들은 가끔 수요일이 되면 나타나는 심오한 마법에 대해 알고 있습니다.,
 ,Gerbil Ruffian,Gerbil Ruffian,사막쥐 폭도,
-,Gerbil Ruffian1,Rumor has it that Gerbils used to be pets before the founding of Orderia. These overgrown monsters make you doubt it.,오데리아가 세워지기 전 사막쥐들은 반려동물이었다는 소문이 있습니다. 이런 거대한 괴물을 보고는 그런 생각이 들지 않지만요.,
+,Gerbil Ruffian1,Rumor has it that Gerbils used to be pets before the founding of Orderia. These overgrown monsters make you doubt it.,규율의 땅이 세워지기 전 사막쥐들은 반려동물이었다는 소문이 있습니다. 이런 거대한 괴물을 보고는 그런 생각이 들지 않지만요.,
 ,Glory Knight,Glory Knight,영광의 기사,
 ,Glory Knight1,Courageous heroes who have lost their way,갈피를 잃은 용감한 영웅입니다.,
 ,Grandmaster,Grandmaster,그랜드마스터,
@@ -840,15 +840,15 @@ enemy actions,ea1,Will attack for /x damage,/x의 피해로 공격할 예정,
 ,eaStatusEffecta,Will add status effect to all enemies:,모든 적에게 상태 효과를 부여할 예정,
 Levels,The Crypt,The Crypt,지하 묘지,
 ,The Bramble,The Bramble,가시덤불,
-,The Bramble1,Animals have long explored the ominious crypts that stretch beneath Orderia. But a new path through the Bramble beckons to those who are strong enough,동물들은 오랫동안 오데리아 아래에 펼쳐진 불길한 지하 묘지를 탐험했습니다. 하지만 가시덤불을 통과하는 새로운 길은 강인한 자에게만 열려 있습니다,
+,The Bramble1,Animals have long explored the ominious crypts that stretch beneath Orderia. But a new path through the Bramble beckons to those who are strong enough,동물들은 오랫동안 규율의 땅 아래에 펼쳐진 불길한 지하 묘지를 탐험했습니다. 하지만 가시덤불을 통과하는 새로운 길은 강인한 자에게만 열려 있습니다,
 ,Deep Cave,Deep Cave,깊은 동굴,
 ,Deep Cave1,"Beneath the crypts, a strange rocky area holds many secrets",지하 묘지 아래에는 많은 비밀이 숨겨진 기이한 암석 지대가 있습니다,
 ,Enchanted Swamp,Enchanted Swamp,마법의 늪,
 ,Enchanted Swamp1,"Reptiles crawl in these mana-infused wetlands. Lit by magic, the waters are as dangerous as they are enchanting",마나로 가득한 이 습지에서는 파충류가 기어 다닙니다. 마법으로 빛나는 물은 매혹적이면서도 위험합니다,
 ,Magma Core,Magma Core,용암 핵,
-,Magma Core1,The temperature is rising! Few animals have seen the lava flows beneath Orderia and lived to tell of them!,온도가 올라가고 있습니다! 오데리아 아래에서 용암이 흐르는 것을 보고 살아남은 동물은 거의 없습니다!,
+,Magma Core1,The temperature is rising! Few animals have seen the lava flows beneath Orderia and lived to tell of them!,온도가 올라가고 있습니다! 규율의 땅 아래에서 용암이 흐르는 것을 보고 살아남은 동물은 거의 없습니다!,
 ,Frozen Heart,Frozen Heart,얼어붙은 심장,
-,Frozen Heart1,"In the deepest parts of Orderia, majestic ice formations are a sight to behold. But beware - these frostbitten paths have been the end of many explorers",오데리아의 가장 깊은 곳에서는 웅장한 얼음 지형이 장관을 이룹니다. 하지만 주의하세요. 이 꽁꽁 얼어붙은 길은 많은 탐험가의 목숨을 앗아갔습니다,
+,Frozen Heart1,"In the deepest parts of Orderia, majestic ice formations are a sight to behold. But beware - these frostbitten paths have been the end of many explorers",규율의 땅의 가장 깊은 곳에서는 웅장한 얼음 지형이 장관을 이룹니다. 하지만 주의하세요. 이 꽁꽁 얼어붙은 길은 많은 탐험가의 목숨을 앗아갔습니다,
 ,Chaotic Darkness,Chaotic Darkness,혼돈의 어둠,
 map events,map1,Enemies here:,이곳의 적:,
 ,map2,Exit to: /x,/x로 향하는 출구,
@@ -874,7 +874,7 @@ character select,characterSelect,Character Select,캐릭터 선택,
 ,purse,purse,퍼스,
 ,purse1,"A peppy rat from a poor village in Oakshire Forest, she aims to storm the dungeon, rebuild her village, and save her family!",오크샤이어 숲의 가난한 마을에서 태어난 기운 넘치는 생쥐인 퍼스는 던전을 털어 마을을 뜯어고치고 가족을 구하려는 목표를 가지고 있습니다!,
 ,tote,tote,토트,
-,tote1,"Banished by the elder frogs, her backpack is blessed by the Dreaming Tree. Magical carvings spawn each turn she is in danger.",원로 개구리들로부터 추방당한 토트의 가방은 꿈꾸는 나무로부터 축복을 받았습니다. 토트가 위험에 빠질 때면 마법의 인각이 생겨납니다.,
+,tote1,"Banished by the elder frogs, her backpack is blessed by the Dreaming Tree. Magical carvings spawn each turn she is in danger.",원로 개구리들로부터 추방당한 토트의 가방은 꿈꾸는 나무로부터 축복을 받았습니다. 토트가 위험에 빠질 때면 마법의 조각상이 생겨납니다.,
 ,CR-8,CR-8,CR-8,
 ,CR-81,"When you can't find a hero, you gotta make one! CR-8 is a mishmash of metal and nerd stuff that will take care of any enemy automatically - provided his circuitry is properly organized.","영웅을 찾을 수 없다면, 직접 만들면 되죠! 철과 샌님이 쓸만한 물건으로 구성된 CR-8은 그 어떤 적이든지 자동으로 처리해줍니다. 물론 회로가 제대로 정리돼있기만 하다면요.",
 ,Pochette,Pochette,포셰트,
@@ -888,11 +888,11 @@ Events///////////////I is intros and f is farewells,,,,
 ,evtb1o1,"You head into the dungeon, knowing very few make it back alive!",당신은 오직 소수만이 무사히 귀환했다는 던전으로 향합니다!,
 ,evten,The end?,The end?,
 ,evteo1,You have made it to the center of the dungeon and have found the golden cheese! More content is coming! Please join our discord and show off your  backpack!,"당신은 던전의 중앙에서 황금 치즈를 찾아냈습니다! 차후에 있을 더 많은 콘텐츠를 기대해주시고, 저희 디스코드 서버에 참여해 가방을 자랑하세요!",
-,evteo1cr8,"You see a golden cog upon the platform. Reaching out, it lifts into the sky. Your machinery will restore Orderia! This is only the beginning of your new machines!","당신은 단 위에 황금 톱니바퀴를 발견합니다. 손을 뻗으니, 톱니바퀴는 하늘로 승천합니다. 당신의 기계가 오데리아를 복원할 겁니다! 이건 당신의 새로운 기계들의 시작일 뿐이에요!",
-,evteo1purse,"Your whiskers twitch. There it is - the golden cheese! With delicious food, many new villagers will flock to Orderia!","당신의 수염이 움찔거립니다. 바로 눈앞에 황금 치즈가 있군요! 이런 진미가 있으면, 많은 사람들이 오데리아로 몰려들 겁니다!",
-,evteo1tote,"Atop the altar is a golden seed - a ""Dreaming Seed"". With each seed, a new plant will spring to life in Orderia!","제단의 위에는 황금빛 ""꿈꾸는 씨앗""이 있습니다. 심어지는 매 씨앗마다, 오데리아에는 새로운 풀이 삶을 가지고 자랄 거예요!",
-,evteo1satchel,A piece from the Spiral of Feathers! Each new feather brings a piece of your lost home to Orderia.,깃털의 나선의 조각! 깃털을 한 개 가져올 때마다 잃어버린 고향의 부분이 오데리아로 불러와집니다.,
-,evteo1Pochette,You hear a chanting from the halls of the dungeon. The darkness that has enveloped Orderia is being lifted.,던전의 복도에서 성가가 들려옵니다. 오데리아를 뒤덮고 있던 어둠이 씻기고 있습니다.,
+,evteo1cr8,"You see a golden cog upon the platform. Reaching out, it lifts into the sky. Your machinery will restore Orderia! This is only the beginning of your new machines!","당신은 단 위에 황금 톱니바퀴를 발견합니다. 손을 뻗으니, 톱니바퀴는 하늘로 승천합니다. 당신의 기계가 규율의 땅을 복원할 겁니다! 이건 당신의 새로운 기계들의 시작일 뿐이에요!",
+,evteo1purse,"Your whiskers twitch. There it is - the golden cheese! With delicious food, many new villagers will flock to Orderia!","당신의 수염이 움찔거립니다. 바로 눈앞에 황금 치즈가 있군요! 이런 진미가 있으면, 많은 사람들이 규율의 땅으로 몰려들 겁니다!",
+,evteo1tote,"Atop the altar is a golden seed - a ""Dreaming Seed"". With each seed, a new plant will spring to life in Orderia!","제단의 위에는 황금빛 ""꿈꾸는 씨앗""이 있습니다. 심어지는 매 씨앗마다, 규율의 땅에는 새로운 풀이 삶을 가지고 자랄 거예요!",
+,evteo1satchel,A piece from the Spiral of Feathers! Each new feather brings a piece of your lost home to Orderia.,깃털의 나선의 조각상! 깃털을 한 개 가져올 때마다 잃어버린 고향의 부분이 규율의 땅으로 불러와집니다.,
+,evteo1Pochette,You hear a chanting from the halls of the dungeon. The darkness that has enveloped Orderia is being lifted.,던전의 복도에서 성가가 들려옵니다. 규율의 땅을 뒤덮고 있던 어둠이 씻기고 있습니다.,
 ,evteb1,Continue in Endless Mode,무제한 모드로 계속하기,
 ,evteb1o1,You continue forward! Things are about to get pretty hard...,당신은 앞으로 더 나아갑니다! 여기서부터는 일이 꽤 어려워질 텐데요...,
 ,evteb2,New game!,새로운 게임!,
@@ -1027,7 +1027,7 @@ Events///////////////I is intros and f is farewells,,,,
 ,ev8b13,Add /x rage to melee weapon,근접 무기에 /x의 분노를 추가한다,
 ,ev8b14,Add /x damage to an instrument,악기에 /x 피해를 추가한다,
 ,ev8b15,Add /x charm to an instrument,악기에 /x 매혹을 추가한다,
-,ev8b16,Add natural to a carving,인각에 자연스러움을 더한다,
+,ev8b16,Add natural to a carving,조각상에 자연스러움을 더한다,
 ,ev8bNoThanks,No thanks,됐어요,
 ,ev8bNoThankso1,She nods and carries on her work.,그 여자는 고개를 끄덕이고 하던 일로 돌아갑니다.,
 ,ev8bNoThankso1t1,Work to do.,할 일 많다.,
@@ -1137,15 +1137,15 @@ Events///////////////I is intros and f is farewells,,,,
 ,ev15f1,Long live the patrol!,"순찰대여, 영원하라!",
 ,ev15f2,The patrol shall conquer!,"순찰대여, 정복할 지어다!",
 ,ev15f3,"In retirement, I still patrol!","은퇴하긴 했지만, 나는 여전히 순찰하지!",
-,ev16n,Statue of Anna,안나의 조각상,
-,ev16o1,"Inscribed on the statue: ""Anna bestowed gifts The world felt safe in her arms healer in a fire""","조각상에는 ""안나는 선물을 내려주었다. 그의 품 안의 세상은 더 안전하게 느껴졌다. 불 속의 의원""이라고 적혀있습니다.",
+,ev16n,Statue of Anna,안나의 조각상상,
+,ev16o1,"Inscribed on the statue: ""Anna bestowed gifts The world felt safe in her arms healer in a fire""","조각상상에는 ""안나는 선물을 내려주었다. 그의 품 안의 세상은 더 안전하게 느껴졌다. 불 속의 의원""이라고 적혀있습니다.",
 ,ev16b1,Gain 5 max hp,최대 체력을 5 늘린다,
-,ev16b1o1,You leave a coin. Then kneel before the statue and say a prayer. Anna somehow seems to reflect light even in this dark place.,"당신은 동전을 하나 두고, 조각상 앞에 무릎을 꿇은 뒤에 기도를 합니다. 어찌 된 일인지, 안나의 빛은 이런 어두운 곳에서도 밝게 빛나는 것 같습니다.",
+,ev16b1o1,You leave a coin. Then kneel before the statue and say a prayer. Anna somehow seems to reflect light even in this dark place.,"당신은 동전을 하나 두고, 조각상상 앞에 무릎을 꿇은 뒤에 기도를 합니다. 어찌 된 일인지, 안나의 빛은 이런 어두운 곳에서도 밝게 빛나는 것 같습니다.",
 ,ev16b2,Steal coins [Get 10 gold or a fight begins],동전을 훔친다 [동전 +10 또는 전투 개시],
-,ev16b2o1,Travelers leave coins by the statue as a token for their prayers. You decide that Anna won't miss just a few.,여행가들은 조각장 근처에 동전을 두곤 합니다. 몇 푼 정도는 없어져도 눈감아 주겠죠.,
-,ev16b2o2,"You approach the statue to grab a few coins. As the coins jingle, you turn to see an approaching group of enemies.","당신은 동전을 훔치기 위해 조각상에 다가갑니다. 떨어진 동전들이 짤랑거리는 것이 보여 뒤를 돌아보니, 적들이 당신 쪽으로 향하고 있는 것이 보입니다.",
+,ev16b2o1,Travelers leave coins by the statue as a token for their prayers. You decide that Anna won't miss just a few.,여행가들은 조각상장 근처에 동전을 두곤 합니다. 몇 푼 정도는 없어져도 눈감아 주겠죠.,
+,ev16b2o2,"You approach the statue to grab a few coins. As the coins jingle, you turn to see an approaching group of enemies.","당신은 동전을 훔치기 위해 조각상상에 다가갑니다. 떨어진 동전들이 짤랑거리는 것이 보여 뒤를 돌아보니, 적들이 당신 쪽으로 향하고 있는 것이 보입니다.",
 ,ev16b3,Leave,그대로 둔다,
-,ev16b3o1,You say a quick prayer. You decide to leave the statue behind.,"당신은 간단히 기도를 한 뒤에, 조각상을 두고 가기로 합니다.",
+,ev16b3o1,You say a quick prayer. You decide to leave the statue behind.,"당신은 간단히 기도를 한 뒤에, 조각상상을 두고 가기로 합니다.",
 ,ev17n,A Red fox in the dark,어둠 속 붉은 여우,
 ,ev17o1,"The fox steps out from the shadows. ""Natural prey."", he says. ""If we battle, I shall make short work of you. Be ye friend or foe?""","어둠 속에서 여우가 한 마리 나타납니다. ""먹잇감이여, 만약 우리가 싸운다면, 빠른 죽음을 선사하지. 너는 친구인가, 적인가?""",
 ,ev17o1cr8,"From the darkness he emerges. A fox! His tail flicks beneath his cloak. ""You won't make much of a meal,"" he says. ""But a high price your body will fetch. Be ye friend or foe?""","어둠 속에서 여우 한 마리가 나타납니다! 그의 꼬리가 망토 아래서 살랑거립니다. ""식사로는 안 될 것 같군."" 그는 말합니다. ""대신 네 몸값은 아주 높을 터. 너는 친구인가, 적인가?""",
@@ -1250,7 +1250,7 @@ Events///////////////I is intros and f is farewells,,,,
 ,ev22b2,gain 10 max hp,최대 체력을 10 늘린다,
 ,ev22b2o1,"True strength comes from your backpack, he says. ""Don't forget it""","진정한 힘이 자네 가방에서 날 것일세. 그가 말합니다. ""잊지 말도록.""",
 ,ev22b3,Become an archer,궁수가 되기,
-,ev22b3o1,"""Archery is a true art form. So many pieces must be carefully placed."" He produces a bow and arrows. ""Perhaps I can help you begin""","""궁술은 진정한 기술의 집합체지. 여러 가지 조각들이 조심스레 결합되어야 해."" 그는 활과 화살들을 만들어냅니다. ""자네의 첫 발자국을 내가 도울 수 있을지도 모르겠군.""",
+,ev22b3o1,"""Archery is a true art form. So many pieces must be carefully placed."" He produces a bow and arrows. ""Perhaps I can help you begin""","""궁술은 진정한 기술의 집합체지. 여러 가지 조각상들이 조심스레 결합되어야 해."" 그는 활과 화살들을 만들어냅니다. ""자네의 첫 발자국을 내가 도울 수 있을지도 모르겠군.""",
 ,ev22b4,Get a rare item,희귀한 아이템을 하나 받기,
 ,ev22b4o1,"True strength comes from your backpack, he says. ""Don't forget it""","진정한 힘이 자네 가방에서 날 것일세. 그가 말합니다. ""잊지 말도록.""",
 ,ev22i1,Allow me to help you...,내가 도움을 줌세...,
@@ -1270,9 +1270,9 @@ Events///////////////I is intros and f is farewells,,,,
 ,ev22f4,My blessings guide you...,내 가호가 함께하기를...,
 ,ev22f5,Let your backpack show you the way..,가방이 길을 알려줄 걸세...,
 ,,,,
-,ev23n,Carpenter of Carvings,인각을 새기는 목수,
-,ev23o1,"In the distance you hear the gentle sound of a chisel. Wait, no! It's the sound of a beaver's teeth! As a frog, the whole ""teeth"" thing still freaks you out. ""Hyuk!"" he says! ""Got any carvings I can gnaw on""?","끌로 나무를 파는 소리가 멀리서부터 들려옵니다. 잠깐, 아니! 이건 비버의 이빨 소리군요! 개구리인 당신에게 이빨이라는 개념은 아직 좀 생소합니다. 비버는 말합니다. ""혁! 내가 씹어도 되는 인각 좀 없어?""",
-,ev23bsos,"At lightning speed his massive overbite starts to chip away at the carving. For a moment you worry, as your carving disappears into a mist of sawdust! But then he finishes and gives your carving back. Each edge is smoother and shinier than ever before!","빛보다 빠른 속도로 비버는 인각을 갉아내기 시작합니다. 인각이 한 줌의 톱밥으로 바뀌는 걸 보고 당신은 잠시동안 걱정하지만, 비버는 일을 마치고 당신에게 인각을 돌려줍니다. 당신의 빛나는 인각의 모서리는 부드럽기 짝이 없습니다!",
+,ev23n,Carpenter of Carvings,조각상을 새기는 목수,
+,ev23o1,"In the distance you hear the gentle sound of a chisel. Wait, no! It's the sound of a beaver's teeth! As a frog, the whole ""teeth"" thing still freaks you out. ""Hyuk!"" he says! ""Got any carvings I can gnaw on""?","끌로 나무를 파는 소리가 멀리서부터 들려옵니다. 잠깐, 아니! 이건 비버의 이빨 소리군요! 개구리인 당신에게 이빨이라는 개념은 아직 좀 생소합니다. 비버는 말합니다. ""혁! 내가 씹어도 되는 조각상 좀 없어?""",
+,ev23bsos,"At lightning speed his massive overbite starts to chip away at the carving. For a moment you worry, as your carving disappears into a mist of sawdust! But then he finishes and gives your carving back. Each edge is smoother and shinier than ever before!","빛보다 빠른 속도로 비버는 조각상을 갉아내기 시작합니다. 조각상이 한 줌의 톱밥으로 바뀌는 걸 보고 당신은 잠시동안 걱정하지만, 비버는 일을 마치고 당신에게 조각상을 돌려줍니다. 당신의 빛나는 조각상의 모서리는 부드럽기 짝이 없습니다!",
 ,ev23bNoThanks,No Thanks!,됐어요!,
 ,ev23bNoThankso1,"""Aw shuckers!"" he says. ""Whelp, if you change your mind let me know. I do enjoy a bit of gnoshing!""","""이런, 아쉬워라!"" 그는 말합니다. ""뭐, 생각이 바뀌거들랑 나한테 말만 해. 난 씹는 게 좋거든!""",
 ,,,,
@@ -1338,7 +1338,7 @@ Events///////////////I is intros and f is farewells,,,,
 ,ev31f1,Fare thee well!,안녕히 가세요!,
 ,,,,
 ,ev32n,Ghost of Dungeon's Future,던전 미래의 유령,
-,ev33o1,"From the corner of your eye, you see a shimmer. A glowing shade of burning red in the cold of the dungeon. Gazing deeper you see the burning of Orderia, foes chasing your friends, darkness leaking from the dungeon. It's your future if you do not act! Will you fight this vision?","시야 가장자리에서 희미한 빛이 보입니다. 던전의 차가운 어둠 속에서 불타는 붉은빛이 빛나고 있습니다. 더 깊이 들여다보면 오데리아가 불타는 모습, 적에게 쫓기는 친구들, 던전에서 새어 나오는 어둠이 보입니다. 행동하지 않으면 이게 진짜 미래가 될 것입니다! 이 계시에 맞서 싸우실 건가요?",
+,ev33o1,"From the corner of your eye, you see a shimmer. A glowing shade of burning red in the cold of the dungeon. Gazing deeper you see the burning of Orderia, foes chasing your friends, darkness leaking from the dungeon. It's your future if you do not act! Will you fight this vision?","시야 가장자리에서 희미한 빛이 보입니다. 던전의 차가운 어둠 속에서 불타는 붉은빛이 빛나고 있습니다. 더 깊이 들여다보면 규율의 땅이 불타는 모습, 적에게 쫓기는 친구들, 던전에서 새어 나오는 어둠이 보입니다. 행동하지 않으면 이게 진짜 미래가 될 것입니다! 이 계시에 맞서 싸우실 건가요?",
 ,ev33b1,"""I fight for the future""","""나는 미래를 위해 싸우겠어""",
 ,ev33b1o1,"Shaking off your fears, you make a stand!",당신은 두려움을 떨쳐내고 맞섭니다!,
 ,ev33b2,Run Away!,도망가자!,
@@ -1489,7 +1489,7 @@ buttons,b1,End Turn,차례 종료,
 ,b15,Recall Pets,펫 부르기,
 ,bd15,Recall all pets to your backpack. Costs 1 energy,모든 펫을 가방으로 부릅니다. 1 에너지를 소모합니다.,
 ,b16,Toss,토스,
-,bd16,Discards all carvings in your backpack. Deals /y damage. Costs /x energy.,가방에 있는 모든 인각을 버립니다. /y의 피해를 입힙니다. 에너지를 /x 소모합니다.,
+,bd16,Discards all carvings in your backpack. Deals /y damage. Costs /x energy.,가방에 있는 모든 조각상을 버립니다. /y의 피해를 입힙니다. 에너지를 /x 소모합니다.,
 hud,h1,floor,층,
 ,h2,experience,경험치,
 ,h3,max level,최대 레벨,
@@ -1579,21 +1579,21 @@ Card Descriptors,Energy,Energy,에너지,
 ,Luck,Luck,행운,
 ,Luckd,Luck increases your chances of finding rare items. It stacks!,행운은 희귀한 아이템들을 찾을 확률을 높혀줍니다. 중첩도 됩니다!,
 ,discarded,discarded,버려짐,
-,discardedd,Discarded carvings can be drawn again later this combat,버려진 인각은 이번 전투 나중에 사용할 수 있습니다,
+,discardedd,Discarded carvings can be drawn again later this combat,버려진 조각상은 이번 전투 나중에 사용할 수 있습니다,
 ,Banished,Banished,추방됨,
-,Banishedd,Banished carvings are removed for the rest of this combat,추방된 인각은 이번 전투에서 제외됩니다,
+,Banishedd,Banished carvings are removed for the rest of this combat,추방된 조각상은 이번 전투에서 제외됩니다,
 ,Disabled,Disabled,비활성화됨,
 ,Disabledd,Items have no effects while disabled,비활성화된 아이템은 아무런 효과도 가지지 못합니다,
 ,Mana,Mana,마나,
 ,Manad,Mana can be used in some items instead of energy. To use mana the item must be adjacent to a manastone or connected through conductive items,마나는 특정 아이템들이 에너지 대신 사용하는 자원입니다. 마나를 사용하기 위해서는 아이템이 마나스톤이나 전도성을 띈 아이템과 이어져 있어야 합니다.,
 ,Food,Food,음식,
-,Foodd,Used to create new buildings in Orderia!,오데리아에서 새로운 건물 건축에 사용합니다!,
+,Foodd,Used to create new buildings in Orderia!,규율의 땅에서 새로운 건물 건축에 사용합니다!,
 ,Material,Material,재료,
-,Materiald,Used to create new buildings in Orderia!,오데리아에서 새로운 건물 건축에 사용합니다!,
+,Materiald,Used to create new buildings in Orderia!,규율의 땅에서 새로운 건물 건축에 사용합니다!,
 ,Treasure,Treasure,보물,
-,Treasured,Used to create new buildings in Orderia!,오데리아에서 새로운 건물 건축에 사용합니다!,
+,Treasured,Used to create new buildings in Orderia!,규율의 땅에서 새로운 건물 건축에 사용합니다!,
 ,Population,Population,인구,
-,Populationd,How many animals have returned to Orderia. New unlocks are available by increasing population!,오데리아로 돌아온 동물의 수입니다. 인구를 늘리면 새로운 걸 해금할 수 있습니다!,
+,Populationd,How many animals have returned to Orderia. New unlocks are available by increasing population!,규율의 땅으로 돌아온 동물의 수입니다. 인구를 늘리면 새로운 걸 해금할 수 있습니다!,
 ,PopulationReq,You need at least /x animals in Haversack Hill,배낭 언덕에 동물 최소 /x마리가 필요합니다,
 Store,Cost,Cost,가격,
 ,onSale,On Sale,할인 중,
@@ -1627,7 +1627,7 @@ Types,weapon,Weapon,무기,
 ,Footwear,Footwear,신발,
 ,Fish,Fish,생선,
 ,Relic,Relic,유물,
-,Fragment,Fragment,조각,
+,Fragment,Fragment,조각상,
 ,Glove,Glove,장갑,
 ,Magic,Magic,마법,
 ,Gem,Gem,보석,
@@ -1635,7 +1635,7 @@ Types,weapon,Weapon,무기,
 ,Ring,Ring,반지,
 ,Rune,Rune,룬,
 ,Sigil,Sigil,인장,
-,Carving,Carving,인각,
+,Carving,Carving,조각상,
 ,Component,Component,부품,
 ,Potion,Potion,물약,
 ,Instrument,Instrument,악기,
@@ -1678,7 +1678,7 @@ special conditions,sc1,Must be played on a defeated pet,기절한 펫에 사용해야 함,
 ,sc7,Must have full health,최대 체력이어야 함,
 ,sc8,Must have used a consumable this turn,이번 차례에 소모품을 사용해야 함,
 ,sc9,Must have a friendly on both sides,양쪽에 아군이 있어야 함,
-,sc10,Must be played on a carving,인각에 사용해야 함,
+,sc10,Must be played on a carving,조각상에 사용해야 함,
 ,sc11,Must be played on an uncleansed curse,정화되지 않은 저주에 사용해야 합니다,
 ,sc12,Can only be used if you have burn,화상일 때만 사용 할 수 있음, WARNING: ENGLISH PLACEHOLDER #####################################################
 ,sc13,Must have a summer item above,위에 여름 아이템이 있어야 함, WARNING: ENGLISH PLACEHOLDER #####################################################
@@ -1784,25 +1784,25 @@ triggers,t1,On use,사용 시,
 ,t72v,For each consumable in this row,이 행의 소모품 하나마다,
 ,t73,For each manastone in this row,이 행의 마나스톤 하나마다,
 ,tc1,On play,사용 시,
-,tc2,When any carving is summoned,아무 인각이 소환될 시,
+,tc2,When any carving is summoned,아무 조각상이 소환될 시,
 ,t74,For each adjacent consumable,사방으로 인접한 소모품 하나마다,
 ,t75,For each adjacent fish,사방으로 인접한 생선 하나마다,
 ,t76,For each empty space to the right,오른쪽에 있는 빈칸 하나마다,
 ,t77,For each empty space in this column,이 열의 빈칸 하나마다,
 ,t78,For each manastone above this,이 위에 있는 마나스톤 하나마다,
-,t79,For each carving in your discard,버리는 인각 하나마다,
-,t80,When a carving is used,인각 사용 시,
+,t79,For each carving in your discard,버리는 조각상 하나마다,
+,t80,When a carving is used,조각상 사용 시,
 ,t81a,For each item along a diagonal line,대각선에 있는 아이템 하나마다,
 ,t81,If there is an item along a diagonal line,대각선으로 아이템이 있을 시,
-,t82,When an adjacent carving is used,사방으로 인접한 인각 사용 시,
-,t82b,When a carving is summoned in an adjacent space,사방으로 인접한 칸에 인각이 소환될 시,
-,t82c,When a carving is summoned in an adjacent or diagonal space,팔방으로 인접한 칸에 인각이 소환될 시,
+,t82,When an adjacent carving is used,사방으로 인접한 조각상 사용 시,
+,t82b,When a carving is summoned in an adjacent space,사방으로 인접한 칸에 조각상이 소환될 시,
+,t82c,When a carving is summoned in an adjacent or diagonal space,팔방으로 인접한 칸에 조각상이 소환될 시,
 ,t83,When an adjacent shield is used,사방으로 인접한 방패 사용 시,
 ,t84,For each space a charge has traveled before using this item,이 아이템을 사용하기 전 전하가 이동한 칸 하나마다,
 ,t85,When an adjacent item kills a non-summon enemy,사방으로 인접한 아이템이 소환수가 아닌 적을 처치할 시,
-,t86,For each adjacent carving,사방으로 인접한 인각 하나마다,
-,t86b,If there is an adjacent carving,사방으로 인접한 인각이 있을 시,
-,t87,When a carving is summoned,인각이 소환될 시,
+,t86,For each adjacent carving,사방으로 인접한 조각상 하나마다,
+,t86b,If there is an adjacent carving,사방으로 인접한 조각상이 있을 시,
+,t87,When a carving is summoned,조각상이 소환될 시,
 ,t88,When an adjacent consumable is used,사방으로 인접한 소모품이 사용될 시,
 ,t89,On death,사망 시,
 ,t90,When an item is used,아무 아이템이 사용될 시,
@@ -1844,11 +1844,11 @@ triggers,t1,On use,사용 시,
 ,t122,For each totem in this column,이 열의 토템 하나마다,
 ,t123,When an item in this column is used,이 열의 아이템이 사용될 시,
 ,t124,For each empty space below,[아래쪽]에 있는 빈칸 하나마다,
-,t125,On clear carvings,깨끗한 인각마다,
+,t125,On clear carvings,깨끗한 조각상마다,
 ,t126,When a plant is summoned in an adjacent space,사방으로 인접한 칸에 식물이 소환될 시,
 ,t127,When connected to /x saps,수액 /x개에 연결될 시,
 ,t128,If no mana is connected,마나가 연결되지 않았을 시,
-,t129,Every /x carvings you play this turn,이번 차례에 인각 /x개 낼 때마다,
+,t129,Every /x carvings you play this turn,이번 차례에 조각상 /x개 낼 때마다,
 ,t130,When defeated,패배 시,
 ,t131,After an enemy sleeps,적이 잠든 후,
 ,t131x,If any pet is defeated,펫이 패배하는 경우,
@@ -2037,10 +2037,10 @@ effects,e1,Deals /x damage,/x의 피해를 입힙니다,
 ,e126pebs,Adds /x poison to everyone but self,자신을 제외한 모두에게 독 을 /x 추가합니다,
 ,e126bebs,Adds /x burn to everyone but self,자신을 제외한 모두에게 화상을 /x 추가합니다,
 ,e127,Adds /x damage to Scratch,긁기의 피해를 /x만큼 강화합니다,
-,e128,Draw /x carvings,/x개의 인각을 얻습니다,
+,e128,Draw /x carvings,/x개의 조각상을 얻습니다,
 ,e129,Adds rough hide to enemy,적에게 성급한 엄폐를 추가합니다,
 ,e130,/x energy to the cost of reorganizing in combat,전투 중 재배치에 사용하는 에너지가 /x 늘어납니다,
-,e130b,/x energy to the cost of clearing carvings in combat,전투 중 인각 청소에 사용하는 에너지가 /x 늘어납니다,
+,e130b,/x energy to the cost of clearing carvings in combat,전투 중 조각상 청소에 사용하는 에너지가 /x 늘어납니다,
 ,e131,Summons Pet,펫 소환,
 ,e132,Friendlies alongside get /x energy,곁에 있는 아군이 에너지를 /x 얻습니다,
 ,e133,Friendlies in front get /x block,맨 앞에 있는 아군이 방어를 /x 얻습니다,
@@ -2059,7 +2059,7 @@ effects,e1,Deals /x damage,/x의 피해를 입힙니다,
 ,e145,/x material,/x 재료,
 ,e146,/x treasure,/x 보물,
 ,e147,/x population,/x 인구,
-,e148,Can be returned to Orderia,오데리아로 보낼 수 있습니다,
+,e148,Can be returned to Orderia,규율의 땅으로 보낼 수 있습니다,
 ,e149,Friendlies alongside get /x spikes,곁에 있는 아군이 가시를 /x 얻습니다,
 ,e150,Summoned pets deal /x damage,소환된 펫이 /x의 피해를 입힙니다,
 ,e151,Pulls backmost enemy to the front of the group,가장 후방에 있는 적을 전방으로 끌어당깁니다,
@@ -2180,7 +2180,7 @@ item status effects,is1,disabled,비활성화됨,
 ,is19,"When taking a lethal hit, the effigy is used instead",사망할 정도의 공격을 받으면 인형이 대신 사용됩니다,
 ,is20,Scratch once more,한 번 더 긁기를 사용합니다,
 ,is21,Natural,자연,
-,is21d,Natural carvings will always be drawn on the first turn,자연 인각은 항상 첫 번째 차례에 사용됩니다,
+,is21d,Natural carvings will always be drawn on the first turn,자연 조각상은 항상 첫 번째 차례에 사용됩니다,
 ,is22,Cleansed,정화됨,
 ,is22d,The curse has been lifted and this item can be left behind,저주가 풀렸으며 이 아이템을 남겨둘 수 있습니다,
 ,is23,The space this occupies counts as empty,이것이 차지하는 칸은 빈칸으로 간주됩니다,
@@ -2240,7 +2240,7 @@ modifiers,m2,destroyed,파괴됨,
 ,m24,This item is refreshed and can be used again this combat,초기화되어 이번 차례에 다시 사용할 수 있게 됩니다,
 ,m25,Items in this row are refreshed and can be used again this turn,이 행에 있는 아이템들이 초기화되어 이번 차례에 다시 사용할 수 있게 됩니다,
 ,m25i,Adjacent instruments are refreshed and can be used again this turn,사방으로 인접한 악기가 모두 초기화되어 다시 사용할 수 있게 됩니다,
-,m25c,Adjacent carvings are refreshed and can be used again this combat,사방으로 인접한 인각이 초기화되어 이번 차례에 다시 사용할 수 있게 됩니다,
+,m25c,Adjacent carvings are refreshed and can be used again this combat,사방으로 인접한 조각상이 초기화되어 이번 차례에 다시 사용할 수 있게 됩니다,
 ,m26,selected adjacent Weapons get /x% bonus damage this combat,사방으로 인접한 무기 중 선택된 무기가 이번 전투에 /x%의 추가 피해를 입힙니다,
 ,m27,All weapons get /x% bonus damage,모든 무기에 /x%의 추가 피해를 더합니다,
 ,m28,The first arrow in each [row to the right] gets /x% bonus damage,각 [오른쪽 행]에 처음으로 발사된 화살이 /x%의 추가 피해를 입힙니다,
@@ -2334,14 +2334,14 @@ modifiers,m2,destroyed,파괴됨,
 ,m104,Wands in this column get /x damage,이 열에 있는 지팡이들이 /x의 추가 피해를 입힙니다,
 ,m105,Permanently increase cost by /y mana,마나 소모량이 영구적으로 /y만큼 증가합니다,
 ,m106,/x to the energy cost for this combat,이번 전투에서 에너지 사용량을 /x만큼 증가시킵니다,
-,m107,Decreases the cost of all held carvings to 0 energy,소지한 모든 인각의 에너지 사용량을 0으로 감소시킵니다,
-,m108,Remove all held carvings and draw /x,가진 모든 인각을 제거하고 /x 뽑기,
-,m109,Banishes a carving from hand,손에 있는 인각을 하나 제거합니다,
+,m107,Decreases the cost of all held carvings to 0 energy,소지한 모든 조각상의 에너지 사용량을 0으로 감소시킵니다,
+,m108,Remove all held carvings and draw /x,가진 모든 조각상을 제거하고 /x 뽑기,
+,m109,Banishes a carving from hand,손에 있는 조각상을 하나 제거합니다,
 ,m110,Weapons behind get /x% bonus damage,뒤에 있는 무기가 /x%의 추가 피해를 입힙니다,
 ,m110p,Weapons behind get /x% bonus damage permanently,뒤에 있는 무기가 영구적으로 /x%의 추가 피해를 입힙니다,
 ,m111,Weapons behind this are used,뒤에 있는 무기들이 사용됩니다,
 ,m112,Weapons behind this are destroyed,뒤에 있는 무기들이 파괴됩니다,
-,m113,This carving is banished,이 인각은 제거됩니다,
+,m113,This carving is banished,이 조각상은 제거됩니다,
 ,m114,Shields two spaces away get /x block this combat,두 칸 떨어져 있는 방패들이 이번 전투에 /x의 방어를 얻습니다,
 ,m115,Items this is played on are destroyed,이 아이템을 사용한 아이템이 파괴됩니다,
 ,m115b,Items this is played on are refreshed and can be used again this turn,이 아이템을 사용한 아이템이 모두 초기화되어 다시 사용할 수 있게 됩니다,
@@ -2354,8 +2354,8 @@ modifiers,m2,destroyed,파괴됨,
 ,m120,Bows behind are used,뒤에 있는 활들이 사용됩니다,
 ,m121,Armor in this row gets /x spikes this combat,이 행에 있는 보호구들이 이번 전투에서 /x의 가시를 얻습니다,
 ,m122,Items behind are used,뒤에 있는 아이템들이 사용됩니다,
-,m123,Adds /x damage for each carving played this combat,이번 전투에 사용된 인각 하나마다 /x의 피해를 추가합니다,
-,m124,Adds /x block for each carving played this combat,이번 전투에 사용된 인각 하나마다 /x의 방어를 추가합니다,
+,m123,Adds /x damage for each carving played this combat,이번 전투에 사용된 조각상 하나마다 /x의 피해를 추가합니다,
+,m124,Adds /x block for each carving played this combat,이번 전투에 사용된 조각상 하나마다 /x의 방어를 추가합니다,
 ,m125,Arrows behind get /x% bonus damage this turn,뒤에 있는 화살이 이번 차례에 /x%의 추가 피해를 입힙니다,
 ,m126,Adjacent fish are destroyed,사방으로 인접한 생선들이 파괴됩니다,
 ,m127,For each manastone above this,이 위에 있는 마나스톤 하나마다,
@@ -2400,14 +2400,14 @@ modifiers,m2,destroyed,파괴됨,
 ,m155,The adjacent item [below] is pushed [down],[아래쪽]으로 인접한 아이템이 [아래]로 밀려납니다,
 ,m156,The adjacent item [to the right] is pushed [right],[오른쪽]으로 인접한 아이템이 [오른쪽]으로 밀려납니다,
 ,m157,Adjacent items are pushed away,사방으로 인접한 아이템들이 밀려납니다,
-,m158,This carving is discarded,이 인각이 버려집니다,
+,m158,This carving is discarded,이 조각상이 버려집니다,
 ,m159,/x to the energy cost for this turn,이번 차례에서 에너지 사용량을 /x만큼 증가시킵니다,
 ,m159p,/x to the energy cost,에너지 비용 + /x,
 ,m160,Does damage equal to /x% of your current poison,현재 자신의 독 의 /x%만큼을 피해로 입힙니다,
 ,m160b,Adds block equal to /x% of your current poison,현재 자신의 독 의 /x%만큼을 방어에 추가합니다,
-,m161,Adjacent carvings are discarded,사방으로 인접한 인각이 버려집니다,
-,m162,Carvings behind are discarded,뒤에 있는 인각이 버려집니다,
-,m162b,Carvings behind are banished,뒤에 있는 인각이 추방됩니다,
+,m161,Adjacent carvings are discarded,사방으로 인접한 조각상이 버려집니다,
+,m162,Carvings behind are discarded,뒤에 있는 조각상이 버려집니다,
+,m162b,Carvings behind are banished,뒤에 있는 조각상이 추방됩니다,
 ,m163,All weapons become heavy,모든 무기가 무거워집니다,
 ,m164,all wands get /x to mana cost,모든 지팡이의 마나 사용량를 /x만큼 증가시킵니다,
 ,m167,Adjacent wands get /x damage,사방으로 인접한 지팡이가 /x의 추가 피해를 입힙니다,
@@ -2418,7 +2418,7 @@ modifiers,m2,destroyed,파괴됨,
 ,m170,/x to the energy cost of all weapons and bows,모든 무기와 활의 에너지 사용량을 /x만큼 증가시킵니다,
 ,m171,/x to burn,화상에 /x 추가,
 ,m171b,/x to burn to self this combat,이번 전투에 자신에게 화상 /x 추가,
-,m172,Adjacent carvings are banished,사방으로 인접한 인각이 추방됩니다,
+,m172,Adjacent carvings are banished,사방으로 인접한 조각상이 추방됩니다,
 ,m173,This item is activated,이 아이템이 활성화됩니다,
 ,m174,Adjacent drums are activated,사방으로 인접한 북이 활성화됩니다,
 ,m175,Adjacent drums get /x charm,사방으로 인접한 북에 /x의 매혹이 부여됩니다,
@@ -2469,11 +2469,11 @@ modifiers,m2,destroyed,파괴됨,
 ,m209r,The item [to the right] is used,[오른쪽]에 있는 아이템이 사용됩니다,
 ,m209d,The item [below] is used,[아래쪽]에 있는 아이템이 사용됩니다,
 ,m210,All adjacent kin are used,사방으로 인접한 모든 칸이 사용됩니다,
-,m211,Discards all carvings in your backpack,가방에 있는 모든 인각을 버립니다,
+,m211,Discards all carvings in your backpack,가방에 있는 모든 조각상을 버립니다,
 ,m212,Creates spirit bolts [above] and [below],[위쪽]와 [아래쪽]에 스피릿 볼트를 생성합니다,
 ,m212b,Creates spirit bolts [left] and [right],[왼쪽]과 [오른쪽]에 스피릿 볼트를 생성합니다,
 ,m213,energy /x,에너지 /x,
-,m214,Discards all carvings in this row,이 행에 있는 모든 인각을 버립니다,
+,m214,Discards all carvings in this row,이 행에 있는 모든 조각상을 버립니다,
 ,m215,The [above] pet is summoned,[위쪽]에 있는 펫이 소환됩니다,
 ,m215l,The pet [to the left] is summoned,[왼쪽]에 있는 펫이 소환됩니다,
 ,m215r,The pet [to the right] is summoned,[오른쪽]에 있는 펫이 소환됩니다,
@@ -2750,7 +2750,7 @@ items,AMETHYST,AMETHYST,자수정,
 ,RAPIER2,Live life on the edge ,인생은 끝자락부터입니다,
 ,RARE HERB,RARE HERB,희귀한 약초,
 ,RED HOODIE,RED HOODIE,빨간 후드,
-,RED HOODIE2,A leftover from before Orderia?  The spiders that spun this thread must have been strange indeed!,오데리아의 건국 전의 잔재일까요? 이 실을 짠 거미들은 정말 이상한 녀석들이었나 봅니다!,
+,RED HOODIE2,A leftover from before Orderia?  The spiders that spun this thread must have been strange indeed!,규율의 땅의 건국 전의 잔재일까요? 이 실을 짠 거미들은 정말 이상한 녀석들이었나 봅니다!,
 ,REGEN POTION,REGEN POTION,회복 물약,
 ,REGENERATIVE WHETSTONE,REGENERATIVE WHETSTONE,회복의 숫돌,
 ,RIGHT GAUNTLET,RIGHT GAUNTLET,오른손 건틀릿,
@@ -2820,18 +2820,18 @@ items,AMETHYST,AMETHYST,자수정,
 ,Whittling Knife,Whittling Knife,날카로운 칼,
 ,Dreaming Sap,Dreaming Sap,꿈꾸는 수액,
 ,Flower Pot,Flower Pot,꽃병,
-,Carving's Edge,Carving's Edge,인각의 경계,
-,Pot Carving,Pot Carving,꽃병 인각,
+,Carving's Edge,Carving's Edge,조각상의 경계,
+,Pot Carving,Pot Carving,꽃병 조각상,
 ,Cherry Bomb,Cherry Bomb,체리 폭탄,
-,Energy Carving,Energy Carving,에너지 인각,
+,Energy Carving,Energy Carving,에너지 조각상,
 ,Energy Point,Energy Point,에너지 포인트,
 ,Mana Sap,Mana Sap,마나 수액,
-,Mossy Carving,Mossy Carving,이끼 낀 인각,
+,Mossy Carving,Mossy Carving,이끼 낀 조각상,
 ,Dreaming Buckler,Dreaming Buckler,꿈꾸는 버클러,
 ,Dreaming Buckler2,"""Far out!""","""멋져!""",
 ,Brothers Bow,Brother's Bow,형제의 활,
 ,Crown of Roots,Crown of Roots,뿌리 왕관,
-,Hero Carving,Hero Carving,영웅 인각,
+,Hero Carving,Hero Carving,영웅 조각상,
 ,Survival Guide,Survival Guide,야생에서 살아남기,
 ,Sharp Branch,Sharp Branch,날카로운 나뭇가지,
 ,Carved Blade,Carved Blade,깎아낸 칼날,
@@ -2845,20 +2845,20 @@ items,AMETHYST,AMETHYST,자수정,
 ,Belt of Dreams,Wand of Dreams,꿈의 허리끈,
 ,Fuel Pellet,Fuel Pellet,연료 알갱이,
 ,Tree Sword,Tree Sword,나무 검,
-,Poison Carving,Poison Carving,독 인각,
+,Poison Carving,Poison Carving,독 조각상,
 ,Energy Fish,Energy Fish,에너지 물고기,
 ,Flowering Cleaver,Flowering Cleaver,꽃피는 중식도,
 ,Frog Magician Boots,Frog Magician Boots,개구리 마법사의 부츠,
 ,Saw Mill,Saw Mill,제재소,
 ,Acorn Cap,Acorn Cap,도토리 모자,
-,Tape Carving,Tape Carving,테이프 인각,
+,Tape Carving,Tape Carving,테이프 조각상,
 ,Piggy Bang,Piggy Bang,돼지 폭탄통,
 ,Gardener's Helmet,Gardener's Helmet,원예가의 투구,
-,Bolt Carving,Bolt Carving,볼트 인각,
+,Bolt Carving,Bolt Carving,볼트 조각상,
 ,Mossy Mace,Mossy Mace,이끼 낀 전곤,
-,Lucky Carving,Lucky Carving,행운의 인각,
-,Shiny Carving,Shiny Carving,빛나는 인각,
-,Carving cycler,Carving cycler,인각 사이클러, WARNING: ENGLISH PLACEHOLDER #####################################################
+,Lucky Carving,Lucky Carving,행운의 조각상,
+,Shiny Carving,Shiny Carving,빛나는 조각상,
+,Carving cycler,Carving cycler,조각상 사이클러, WARNING: ENGLISH PLACEHOLDER #####################################################
 ,Die,Dice,주사위,
 ,rerollCombat,Reroll your combat rewards,전투 보상을 새로 고칩니다,
 ,mortar,mortar,막자사발,
@@ -2964,10 +2964,10 @@ items,AMETHYST,AMETHYST,자수정,
 ,Book of Nightmares,Book of Nightmares,악몽의 책,
 ,Dew Drop Blade,Dew Drop Blade,이슬방울 칼날,
 ,Green Candle,Green Candle,녹색 양초,
-,Jar Carving,Jar Carving,불쾌한 인각,
+,Jar Carving,Jar Carving,불쾌한 조각상,
 ,Mask of Secrets,Mask of Secrets,비밀의 가면,
 ,Ring of Dreams,Ring of Dreams,꿈의 반지,
-,Spiky Carving,Spiky Carving,가시의 인각,
+,Spiky Carving,Spiky Carving,가시의 조각상,
 ,Spiky Hazard,Spiky Hazard,뾰족한 위험, WARNING: ENGLISH PLACEHOLDER #####################################################
 ,Stump Hazard,Stump Hazard,그루터기 위험, WARNING: ENGLISH PLACEHOLDER #####################################################
 ,Spiral Lance,Spiral Lance,나선 랜스,
@@ -3131,7 +3131,7 @@ items,AMETHYST,AMETHYST,자수정,
 ,Club Cleaver,Club Cleaver,클럽 중식도,
 ,Diamond Cleaver,Diamond Cleaver,다이아몬드 중식도,
 ,Spade Cleaver,Spade Cleaver,스페이드 중식도,
-,Ember Shard,Ember Shard,불 조각,
+,Ember Shard,Ember Shard,불 조각상,
 ,Ember Shard2,"He will win, who knows when to fight and when to not fight",싸움을 걸 때를 잘 아는 사람이 이길 것입니다.,
 ,Salami,Salami,살라미,
 ,Shove Shield,Shove Shield,삽방패,
@@ -3172,7 +3172,7 @@ items,AMETHYST,AMETHYST,자수정,
 ,Briar Dagger,Briar Dagger,들장미 단검,
 ,Distiller,Distiller,증류기,
 ,Oak Stump,Oak Stump,참나무 그루터기,
-,Gem Carving,Gem Carving,보석 인각,
+,Gem Carving,Gem Carving,보석 조각상,
 ,Love Letter,Love Letter,러브레터,
 ,Love Letter2,There are things within this letter that you could never repeat.,다시는 되돌릴 수 없는 내용이 담긴 편지입니다.,
 ,Lover's Reply,Lover's Reply,연인의 답장,
@@ -3204,9 +3204,9 @@ items,AMETHYST,AMETHYST,자수정,
 ,Crystal Dragonfly,Crystal Dragonfly,수정 잠자리,
 ,Red Hourglass,Red Hourglass,빨간색 모래시계,
 ,Reverse Hourglass,Reverse Hourglass,반대 모래시계,
-,Reverse Hourglass1,"If your hand is empty, draw a new carving",손이 비었다면 새 인각을 얻습니다,
+,Reverse Hourglass1,"If your hand is empty, draw a new carving",손이 비었다면 새 조각상을 얻습니다,
 ,Cracked Bottle,Cracked Bottle,깨진 병,
-,Cracked Bottle1,Toss adds additional damage for each carving in your backpack,토스가 가방에 있는 인각 하나마다 추가 피해를 입힙니다.,
+,Cracked Bottle1,Toss adds additional damage for each carving in your backpack,토스가 가방에 있는 조각상 하나마다 추가 피해를 입힙니다.,
 ,Vine Sap,Vine Sap,덩굴 수액,
 ,Acorn Sap,Acorn Sap,도토리 수액,
 ,Blue Candle,Blue Candle,파란색 양초,
@@ -3331,8 +3331,8 @@ items,AMETHYST,AMETHYST,자수정,
 ,Charging ManaStone,Charging ManaStone,충전 중인 마나스톤,
 ,Hungry Mana Stone,Hungry ManaStone,배고픈 마나스톤,
 ,Vacant Mana Stone,Vacant ManaStone,빈 마나스톤,
-,Mana Shard,Mana Shard,마나 조각,
-,Mana Shard2,Just a fragile fragment held together with a bit of magic,약간의 마법으로 뭉쳐진 깨지기 쉬운 조각에 불과합니다,
+,Mana Shard,Mana Shard,마나 조각상,
+,Mana Shard2,Just a fragile fragment held together with a bit of magic,약간의 마법으로 뭉쳐진 깨지기 쉬운 조각상에 불과합니다,
 ,Lightning Ring,Lightning Ring,번개 반지,
 ,Bird Chant,Bird Chant,새의 노래,
 ,Bird Chant2,This unchained melody continues,멜로디가 끊이지 않고 이어집니다,
@@ -3343,7 +3343,7 @@ items,AMETHYST,AMETHYST,자수정,
 ,Magician's Blade,Magician's Blade,마술사의 칼날,
 ,Dowsing Rod,Dowsing Rod,수맥봉,
 ,BowBlade,BowBlade,활 칼날,
-,Frog Carving,Frog Carving,개구리 인각,
+,Frog Carving,Frog Carving,개구리 조각상,
 ,Shoe Hat,Shoe Hat,신발 모자,
 ,Building Song,Building Song,건설의 노래,
 ,Brick Arrow,Brick Arrow,벽돌 화살,
@@ -3498,7 +3498,7 @@ Hazards,Goo,Goo,끈끈이,
 ,Quillswish Plush2,Show your support for the mayor!,시장님을 응원해주세요!,
 ,Quillswish Statue3,Support Quillswish!,퀼스위시를 지지하세요!,
 ,Quillswish Statue4,Vote for Quillswish!,퀼스위시를 뽑으세요!,
-,Quillswish Statue5,He's the hero of Orderia!,오데리아의 영웅!,
+,Quillswish Statue5,He's the hero of Orderia!,규율의 땅의 영웅!,
 ,Frying Pan,Frying Pan,프라이팬,
 ,Mysterious Letter,Mysterious Letter,수수께끼의 편지,
 ,Mysterious Letter1,There's a little picture of a bird on it. He looks super cool! But you can't read the writing,작은 새 그림이 그려져 있어요. 정말 멋져 보이네요! 하지만 글씨는 읽을 수 없어요.,
@@ -3515,7 +3515,7 @@ Hazards,Goo,Goo,끈끈이,
 ,Hymn of Kate,Hymn of Kate,케이트의 찬가,
 ,Dungeon's Hymn,Dungeon's Hymn,던전의 찬가,
 ,Hymn of Curses,Hymn of Curses,저주의 찬가,
-,Hymn of Orderia,Hymn of Orderia,오데리아의 찬가,
+,Hymn of Orderia,Hymn of Orderia,규율의 땅의 찬가,
 ,Explosive,Explosive,폭발물,
 ,Prada's Locket,Prada's Locket,프라다의 로켓,
 ,Prada's Locket1,"It belonged to your mother. There's something inside it, but only your mother knew how to open it!",그것은 당신의 어머니의 것이었습니다. 그 안에는 무언가가 들어 있지만 어머니만이 열 수 있는 방법을 알고 있었어요!,
@@ -3695,7 +3695,7 @@ Pets,Bebe,Bebe,베베,
 ,extraResTreasure,Sells for /x extra treasure in Haversack Hill,배낭 언덕에서 추가 보물 /x개로 판매됩니다,
 ,extraResBM,Sells for /x extra material in Haversack Hill,배낭 언덕에서 추가 재료 /x개로 판매됩니다,
 Lore,l-a,Born of Fire,불의 탄생,
-,l-a1,Orderia was born in fire,오데리아는 불에서 탄생했다,
+,l-a1,Orderia was born in fire,규율의 땅은 불에서 탄생했다,
 ,l-a2,"Engulfed in flames' embrace, Lost, the order's tranquil reign, World ablaze, untamed.","화염의 품에 안겨 길을 잃고, 질서의 평화로운 통치를 잃고, 세상은 불타고, 야생에 가까웠다.",
 ,l-a3,Such a strange burning,이상한 불길,
 ,l-b,The Attuning,조율,
@@ -3712,7 +3712,7 @@ Lore,l-a,Born of Fire,불의 탄생,
 ,l-d1,Bones became gears,뼈는 기어가 되었다,
 ,l-d2,Muscles turned to springs,근육은 스프링이 되었다,
 ,l-d3,Aimlessly he marched,그는 목표 없이 나아갔다,
-,l-d4,Until the parts rusted out and he was carried off in pieces,부품이 녹슬어 산산이 조각날 때까지,
+,l-d4,Until the parts rusted out and he was carried off in pieces,부품이 녹슬어 산산이 조각상날 때까지,
 ,l-e,Webs in the Wall,벽의 거미줄,
 ,l-e1,Some of us can hear a whispering from the spiderwebs in the walls,벽에 걸린 거미줄에서 속삭이는 소리가 들리기도 한다,
 ,l-e2,Even fewer can understand the cryptic messages contained within,그 암호화된 메시지를 이해할 수 있는 사람은 별로 없다,
@@ -3745,7 +3745,7 @@ Lore,l-a,Born of Fire,불의 탄생,
 ,l-j2,a mighty Red Maple continuously burned and felled through the ages,거대한 붉은 단풍나무는 오랜 세월 동안 끊임없이 불타고 쓰러진다,
 ,l-j3,"Grandpa tends this sapling, having it sprout and grow like flame through sheer determination, and then to warm those loyal, Spirit Flame burns itself away to feed the reptiles on Warm Sap to warm their cold blooded hearts","할아버지는 이 묘목을 돌보며 불굴의 의지로 싹을 틔우고 불꽃처럼 자라게 한 다음, 충직한 파충류들을 따뜻하게 하기 위해 자신의 몸을 태워 따뜻한 수액을 먹이고 차갑게 식어버린 파충류들의 마음을 녹인다",
 ,l-k,Eclipse,일식,
-,l-k1,The moon passed between Orderia and the Sun,달이 오데리아와 태양 사이를 통과했다,
+,l-k1,The moon passed between Orderia and the Sun,달이 규율의 땅과 태양 사이를 통과했다,
 ,l-k2,"Their spell was cast, draining the color from the Elderglow bark",주문이 발동되어 엘더글로우 나무껍질에서는 색이 사라졌다,
 ,l-k3,"With darkened mana, they found the Dreaming Tree next","마나가 어두워졌고, 그들은 다음 꿈꾸는 나무를 찾았다",
 ,l-l,Fluff'Kai,플러프카이,
@@ -3774,7 +3774,7 @@ Lore,l-a,Born of Fire,불의 탄생,
 ,l-p3,The Stars is the option never considered. Looking back and Singing the Forgotten Songs,별은 고려하지 않았다. 뒤를 돌아보며 잊혀진 노래를 불렀다,
 ,l-q,Stars,별,
 ,l-q1,"I am the one who hatches first, looking back at Nine who shaped the world",나는 세상을 만든 나인을 돌아보며 가장 먼저 부화하는 것이다,
-,l-q2,Upon hatching you will repeat the song that carved the world,부화하면 이 세상을 조각한 노래를 반복하게 될 것이다,
+,l-q2,Upon hatching you will repeat the song that carved the world,부화하면 이 세상을 조각상한 노래를 반복하게 될 것이다,
 ,l-q3,"This song must not cease, as like clockwork it provides order",이 노래는 마치 시계처럼 질서를 만들기에 멈춰서는 안 된다,
 ,l-r,Sun,태양,
 ,l-r1,I am the one who hatches second and guides us to the song sung outside the egg,나는 두 번째로 부화하여 알 밖에서 부르는 노래로 이끄는 것이다,
@@ -3851,8 +3851,8 @@ Lore,l-a,Born of Fire,불의 탄생,
 ,l-af2,"Countless fortunes, but beware the unseen. ","무수한 재산이 빛나지만, 안 보이는 것을 조심하라.",
 ,l-af3,"Cursed objects lurk, with malice they chase, ","저주받은 물건이 도사리고, 악의를 품고 쫓고,",
 ,l-af4,"Their dark powers haunt, until souls embrace.",영혼이 받아들일 때까지 어둠의 힘이 따라다니니.,
-,l-ag,Scroll of Orderia,오데리아의 두루마리,
-,l-ag1,"In Orderia's realm, where creatures dance, ","동물들이 춤추는 오데리아 왕국,",
+,l-ag,Scroll of Orderia,규율의 땅의 두루마리,
+,l-ag1,"In Orderia's realm, where creatures dance, ","동물들이 춤추는 규율의 땅 왕국,",
 ,l-ag2,Holds wonder and danger in equal chance. ,좋은 일과 나쁜 일이 같은 확률로 있는 곳.,
 ,l-ag3,"Now in, disorder and chaos untold,","지금은 무질서와 혼돈이 가득한 곳,",
 ,l-ag4,"A land once built on peace, In times of old.",예전에는 평화 위에 세워진 곳.,
@@ -3957,17 +3957,17 @@ Buildings,House,House,집,
 ,Pine Tree,Pine Tree,소나무,
 ,Bridge,Bridge,다리,
 ,Bridge1,Place it on rivers to get across!,강에 배치하면 건널 수 있습니다!,
-,Anna Statue,Anna Statue,안나 조각상,
+,Anna Statue,Anna Statue,안나 조각상상,
 ,Barricade,Barricade,바리케이드,
-,Mary Statue,Mary Statue,메리 조각상,
-,Kate Statue,Kate Statue,케이트 조각상,
-,CR8 Statue,CR8 Statue,CR8 조각상,
-,Golden Heroic Statue,Golden Heroic Statue,황금 영웅 조각상,
-,Pochette Statue,Pochette Statue,포쉐트 조각상,
-,Purse Statue,Purse Statue,퍼스 조각상,
-,Satchel Statue,Satchel Statue,사첼 조각상,
-,Stone Heroic Statue,Stone Heroic Statue,스톤 히어로 조각상,
-,Tote Statue,Tote Statue,토트 조각상,
+,Mary Statue,Mary Statue,메리 조각상상,
+,Kate Statue,Kate Statue,케이트 조각상상,
+,CR8 Statue,CR8 Statue,CR8 조각상상,
+,Golden Heroic Statue,Golden Heroic Statue,황금 영웅 조각상상,
+,Pochette Statue,Pochette Statue,포쉐트 조각상상,
+,Purse Statue,Purse Statue,퍼스 조각상상,
+,Satchel Statue,Satchel Statue,사첼 조각상상,
+,Stone Heroic Statue,Stone Heroic Statue,스톤 히어로 조각상상,
+,Tote Statue,Tote Statue,토트 조각상상,
 ,,,,
 ,,,,
 ,Bounty Board,Bounty Board,현상금 게시판,
@@ -4022,7 +4022,7 @@ Buildings,House,House,집,
 ,Sir Wartsley,Sir Wartsley,워틀리 경,
 ,Sir Wartsley1,An eye for decorations! A gular sac for the ages!,장식에 대해 시대를 초월한 안목을 가졌다,
 ,Parcel,Parcel,파셀,
-,Parcel1,He carries items between Orderia and The Dungeon,오데리아와 던전을 오가며 아이템을 운반합니다,
+,Parcel1,He carries items between Orderia and The Dungeon,규율의 땅과 던전을 오가며 아이템을 운반합니다,
 ,Nora,Nora,노라,
 ,Nora1,A frog a long way from home,멀리까지 온 개구리입니다,
 ,Matthew,Matthew,매튜,
@@ -4085,9 +4085,9 @@ REFSTART#Constance_FinalQuest,Constance_FinalQuest_n1,It's so great to have Loui
 ,Constance_FinalQuest_n17,CR-8 doesn't have a subroutine to the depths yet. They must reach the depths before they are ready to help!,CR-8은 아직 심연으로 가는 하위 루틴이 없습니다 심연에 도달해야 도와줄 준비가 갖추어집니다.,
 ,Constance_FinalQuest_n19,Pochette knows the Dungeon better than any of us! She can meet you there!,포셰트는 그 누구보다 더 던전을 잘 알고 있습니다. 그녀는 거기서 당신을 만날 수 있어요.,
 ,Constance_FinalQuest_n20,"Pochette lived for years in the Dungeon, but she doesn't yet know the way to the deepest points!",포셰트는 던전에서 오랫동안 살았지만 심층부로 가는 길은 모릅니다.,
-,Constance_FinalQuest_n21,That's everyone! Reach the depths and open the door to the Chaos beneath Orderia!,그게 바로 여러분입니다. 심층부에 가서 오데리아 아래 혼란의 문을 여세요.,
+,Constance_FinalQuest_n21,That's everyone! Reach the depths and open the door to the Chaos beneath Orderia!,그게 바로 여러분입니다. 심층부에 가서 규율의 땅 아래 혼란의 문을 여세요.,
 ,Constance_FinalQuest_n23,I believe in you Purse!,"퍼스, 당신을 믿어요.",
-REFEND#Constance_FinalQuest,Constance_FinalQuest_n24,Help the remaining members reach the depths of the Dungeon! Only then can Orderia be saved!,남은 멤버를 던전 심층부까지 안내해 주세요. 그래야만 오데리아를 구할 수 있어요.,
+REFEND#Constance_FinalQuest,Constance_FinalQuest_n24,Help the remaining members reach the depths of the Dungeon! Only then can Orderia be saved!,남은 멤버를 던전 심층부까지 안내해 주세요. 그래야만 규율의 땅을 구할 수 있어요.,
 REFSTART#Constance_First_Meeting,Constance_First_Meeting_n1,Oh hello dearie!,"오, 반가워요.",
 ,Constance_First_Meeting_n2,I didn't know that anyone even knew the way over here...,여기로 오는 길을 아는 사람이 있는 줄은 몰랐는데…,
 ,Constance_First_Meeting_n3,How did you get here?,어떻게 온 거예요?,
@@ -4379,7 +4379,7 @@ REFSTART#Kings Guard Warning,Kings Guard Warning_n1,Ah... the famous Purse!,아…
 ,Kings Guard Warning_n2,Have we met?,우리 구면인가요?,
 ,Kings Guard Warning_n3,"No dear girl, but King has heard of your exploits in the dungeon",아니. 하지만 네놈이 던전에서 한 일을 왕께서 알고 계시지.,
 ,Kings Guard Warning_n4,You are taking treasures that rightfully belong to him!,너는 왕의 정당한 재산을 훔쳐갔어!,
-,Kings Guard Warning_n5,Everything in the dungeon beneath Orderia belongs to King,오데리아 던전에 있는 모든 것은 왕의 소유물이야.,
+,Kings Guard Warning_n5,Everything in the dungeon beneath Orderia belongs to King,규율의 땅 던전에 있는 모든 것은 왕의 소유물이야.,
 ,Kings Guard Warning_n6,"But without it, we wouldn't even...",하지만 그게 없으면 우리는 아무것도…,
 ,Kings Guard Warning_n7,SILENCE!,조용!,
 ,Kings Guard Warning_n8,This will be your only warning,마지막 경고야.,
@@ -4545,7 +4545,7 @@ REFSTART#FirstMatthew,FirstMatthew_n1,I see you've returned from the dungeon!,던
 ,FirstMatthew_n8,That's exactly what I need! I've been trying to get deeper in the dungeon!,제가 바로 원하던 거예요. 저는 던전 더 깊은 곳으로 들어가려고 했었어요.,
 ,FirstMatthew_n9,I think my mom might be trapped down there!,저희 엄마가 거기 잡혀 있는 거 같거든요,
 ,FirstMatthew_n10,She disappeared in a raid. Same one that ruined the old town,습격으로 실종되었어요. 옛 마을을 파괴한 놈들이죠.,
-,FirstMatthew_n11,Hmm... yes... we need lost sparks to find those who are lost in the deep dark depths beneath Orderia,으음… 오데리아 던전 심층부에서 사람을 찾으려면 잃어버린 불꽃이 필요해요.,
+,FirstMatthew_n11,Hmm... yes... we need lost sparks to find those who are lost in the deep dark depths beneath Orderia,으음… 규율의 땅 던전 심층부에서 사람을 찾으려면 잃어버린 불꽃이 필요해요.,
 ,FirstMatthew_n12,What we need is an adventurer who can brave the depths and find these lost sparks!,우리는 던전의 깊은 곳을 용감하게 헤치며 잃어버린 불꽃을 찾을 모험가가 필요합니다.,
 ,FirstMatthew_n13,And we need to get some more villagers here! We'll need all the information we can get!,그리고 마을 사람을 더 만나야 해요. 얻을 수 있는 정보는 다 얻어야 하거든요.,
 REFEND#FirstMatthew,FirstMatthew_n14,Finding lost sparks won't be easy!,잃어버린 불꽃을 찾는 건 쉽지 않을 거예요,
@@ -4553,7 +4553,7 @@ REFSTART#GenericMatthew,GenericMatthew_n1,You abandoned your last run part of th
 ,GenericMatthew_n2,"The further you go, the more rare items you will get! You should always stick with it if you can!",더 깊이 들어갈수록 더 희귀한 아이템을 얻을 수 있습니다. 가능하면 항상 끝까지 가야 합니다.,
 ,GenericMatthew_n3,So you were defeated.,그래서 당신은 패배했습니다,
 ,GenericMatthew_n4,Practice makes perfect. Keep organizing!,연습은 완벽을 만들죠. 계속 가방을 정리하세요,
-,GenericMatthew_n5,Great job bringing so much back! The people of Orderia thank you!,좋아요! 많은 것을 가지고 나왔군요. 오데리아 주민들이 고마워할 거예요,
+,GenericMatthew_n5,Great job bringing so much back! The people of Orderia thank you!,좋아요! 많은 것을 가지고 나왔군요. 규율의 땅 주민들이 고마워할 거예요,
 ,GenericMatthew_n8,Keep exploring!,계속 모험하세요,
 ,GenericMatthew_n9,Hope that helped!,도움이 되었기를 바랍니다,
 ,GenericMatthew_n10,Let me show you some of the things we can research together,우리가 함께 조사할 수 있는 것들을 몇 가지 알려줄게요,
@@ -4564,14 +4564,14 @@ REFSTART#GenericMatthew,GenericMatthew_n1,You abandoned your last run part of th
 ,GenericMatthew_n31,"But before we can do that, you will need to conquer the Deep Caves",하지만 그 전에 먼저 깊은 동굴을 정복해야 해요,
 ,GenericMatthew_n34,There are still more areas to unlock. Do you have lost sparks for me?,아직 해제되지 않은 지역이 많아요. 잃어버린 불꽃 있으신가요?,
 ,GenericMatthew_n36,There's nothing left for us to unlock - but you havent yet conquered the depths of The Dungeon!,이제 해제할 곳은 없어요. 하지만 던전의 심층부는 정복하지 못했어요.,
-,GenericMatthew_n37,"Now that we've opened all the passages in Orderia, you may have more Lost Sparks than you know what to do with!","이제 오데리아의 모든 통로를 열었으니, 당신에게는 생각보다 더 많은 잃어버린 불꽃이 있을지도 모르겠군요",
+,GenericMatthew_n37,"Now that we've opened all the passages in Orderia, you may have more Lost Sparks than you know what to do with!","이제 규율의 땅의 모든 통로를 열었으니, 당신에게는 생각보다 더 많은 잃어버린 불꽃이 있을지도 모르겠군요",
 ,GenericMatthew_n38,I still collect them!,전 아직도 모으고 있어요,
 ,GenericMatthew_n39,Do you have any for me?,저한테 줄 수 있으시나요?,
 ,GenericMatthew_n40,Excellent! I will give you some treasure in exchange!,감사합니다! 대가로 보물을 드리죠,
 ,GenericMatthew_n41,Hello indeed young adventurer!,모험가님 반가워요,
 ,GenericMatthew_n45,Perhaps your definition of a Lost Spark is different from my own!,당신의 잃어버린 불꽃에 대한 정의는 저의 정의와 다를 지도 모르겠네요,
 ,GenericMatthew_n46,I'll never understand young animals these days!,난 요즘 어린 동물들을 이해하지 못하겠어요,
-REFEND#GenericMatthew,GenericMatthew_n47,"With each spark, a little piece of Orderia is restored!",스파크가 튈 때마다 오데리아의 작은 부분이 복원됩니다,
+REFEND#GenericMatthew,GenericMatthew_n47,"With each spark, a little piece of Orderia is restored!",스파크가 튈 때마다 규율의 땅의 작은 부분이 복원됩니다,
 REFSTART#Matthew_Elites,Matthew_Elites_n1,The raid on our town was just the beginning! ,우리 마을에 대한 습격은 시작에 불과했습니다,
 ,Matthew_Elites_n2,You need to defeat them Purse!,"퍼스, 그 사람들을 물리쳐야 해요",
 ,Matthew_Elites_n3,You will see that more powerful enemies are now appearing in The Dungeon,던전에서 더 강력한 적을 볼 수 있을 거예요,
@@ -4638,7 +4638,7 @@ REFSTART#Mayor_AfterRaid,Mayor_AfterRaid_n1,The recent attack on our town was a 
 ,Mayor_AfterRaid_n15,Trade mark pending,상표 신청 중입니다,
 ,Mayor_AfterRaid_n16,"Indeed, Purse! Monster's with valid voting ID's no less! One of King's guards carried it off!","그럼요, 퍼스! 유효한 신분증을 가진 몬스터는 별로 없죠! 왕의 근위대 중 하나가 가져갔어요!", WARNING: ENGLISH TEXT CHANGED #####################################################
 ,Mayor_AfterRaid_n17,Please Purse! Bring it back!,"퍼스, 되찾아주세요. 부탁드립니다.",
-,Mayor_AfterRaid_n18,The fate of Orderia may well hang in the balance!,오데리아의 운명이 걸려있을 지도 몰라요.,
+,Mayor_AfterRaid_n18,The fate of Orderia may well hang in the balance!,규율의 땅의 운명이 걸려있을 지도 몰라요.,
 ,Mayor_AfterRaid_n19,And more importantly,더 중요한 건,
 ,Mayor_AfterRaid_n20,I miss being able to stare into my own face!,내 얼굴을 볼 수 없다는 거예요. 정말 그리워요.,
 REFEND#Mayor_AfterRaid,Mayor_AfterRaid_n21,A tragedy indeed!,정말 비극적이네요.,
@@ -4705,12 +4705,12 @@ REFSTART#Mayor_FirstHouse,Mayor_FirstHouse_n1,I need a place to stay - and what 
 ,Mayor_FirstHouse_n6,The voting public needs a house!,투표하는 대중에게는 집이 필요합니다!,
 REFEND#Mayor_FirstHouse,Mayor_FirstHouse_n8,Your votes don't count without a valid address!,유효한 주소가 없으면 투표가 무효 처리되거든요.,
 REFSTART#Mayor_Generic,Mayor_Generic_n1,Vote for Mayor Quillswish!,퀼스위시 시장에게 투표하세요!,
-,Mayor_Generic_n2,You can count on me to save Orderia!,오데리아를 구할 수 있는 건 저뿐입니다!,
-REFEND#Mayor_Generic,Mayor_Generic_n3,The voting public has made it clear - I am the hero of Orderia!,투표를 통해 오데리아의 영웅은 바로 저라는 사실이 분명해졌습니다!,
+,Mayor_Generic_n2,You can count on me to save Orderia!,규율의 땅을 구할 수 있는 건 저뿐입니다!,
+REFEND#Mayor_Generic,Mayor_Generic_n3,The voting public has made it clear - I am the hero of Orderia!,투표를 통해 규율의 땅의 영웅은 바로 저라는 사실이 분명해졌습니다!,
 REFSTART#Mayor_GoldenStatue,Mayor_GoldenStatue_n1,You've done it! ,해냈군요!,
 ,Mayor_GoldenStatue_n2,Conquered every aspect of the Dungeon!,던전의 모든 곳을 정복했어요,
 ,Mayor_GoldenStatue_n3,I hereby present you with...,이제 당신에게 선물을 줄게요,
-,Mayor_GoldenStatue_n4,A golden statue that celebrates all I have done to help you succeed!,당신의 성공을 위해 노력한 저의 모든 조력을 기념하는 황금 조각상입니다,
+,Mayor_GoldenStatue_n4,A golden statue that celebrates all I have done to help you succeed!,당신의 성공을 위해 노력한 저의 모든 조력을 기념하는 황금 조각상상입니다,
 REFEND#Mayor_GoldenStatue,Mayor_GoldenStatue_n6,A living reminder of all I have done for Haversack Hill!,배낭 언덕을 위해 제가 해온 모든 일을 상기시켜주는 살아있는 증거죠!,
 REFSTART#Mayor_TownHallIsFinished,Mayor_TownHallIsFinished_n1,I see the new Town Hall!,새 시청이 보이네요!,
 ,Mayor_TownHallIsFinished_n2,"I was about to get around to it myself, but I'm glad to see that my adoring fans built one to save me time!","제가 직접 지으려고 했는데, 저를 지지해 주시는 분들이 제가 시간을 아끼게 해 주시려고 시청을 지어 주셨군요.",
@@ -4748,8 +4748,8 @@ REFSTART#Miss_Burrough_Default,Miss_Burrough_Default_n1,What can I teach you abo
 ,Miss_Burrough_Default_n2,Hello! Hope you're finding time to hit the books between adventures!,안녕하세요! 모험을 하다가 틈틈이 책 읽을 시간이 있길 바랄게요,
 ,Miss_Burrough_Default_n3c1,Teach me about the Dungeon!,던전에 대해 알고 싶어요,
 ,Miss_Burrough_Default_n3c2,Teach me about Haversack Hill,배낭 언덕에 대해 알고 싶어요,
-,Miss_Burrough_Default_n4,"It's huge, stretching beneath all of Orderia! Ever shifting and ancient beyond our time!",오데리아 전역에 걸쳐 펼쳐진 거대한 지하 동굴이에요. 우리 시대를 넘어서서 훨씬 오래되고 변화무쌍한 곳이죠,
-,Miss_Burrough_Default_n5,"It's the safest, coziest place in all of Orderia! But there's always more to do here!",오데리아 전체에서 가장 안전하고 아늑한 곳이에요,
+,Miss_Burrough_Default_n4,"It's huge, stretching beneath all of Orderia! Ever shifting and ancient beyond our time!",규율의 땅 전역에 걸쳐 펼쳐진 거대한 지하 동굴이에요. 우리 시대를 넘어서서 훨씬 오래되고 변화무쌍한 곳이죠,
+,Miss_Burrough_Default_n5,"It's the safest, coziest place in all of Orderia! But there's always more to do here!",규율의 땅 전체에서 가장 안전하고 아늑한 곳이에요,
 ,Miss_Burrough_Default_n6,What did you want to know about?,무엇을 알고 싶으세요?,
 ,Miss_Burrough_Default_n7,What can I teach you about that place?,그곳에 대해 뭘 알려줄까요?,
 ,Miss_Burrough_Default_n8c1,Items and enemies,아이템과 적,
@@ -4796,7 +4796,7 @@ Three: Treasure!",1: 음식! 2: 건축 자재! 3: 보물!,
 ,Miss_Burrough_Default_n42c1,Who built it?,누가 만들었나요?,
 ,Miss_Burrough_Default_n42c2,Can we destroy it?,파괴할 수 있나요?,
 ,Miss_Burrough_Default_n42c3,Who goes there?,누가 거길 가나요?,
-,Miss_Burrough_Default_n43,"Its been around for as long as anyone can remember! Its older than all the kingdoms in Orderia, and possibly even older than that!","그곳은 누구나 다 기억할 수 있을 만큼 오랫동안 존재해 왔어요! 오데리아의 모든 왕국보다 더 오래되었고, 어쩌면 그보다 훨씬 더 오래되었을지도 몰라요.",
+,Miss_Burrough_Default_n43,"Its been around for as long as anyone can remember! Its older than all the kingdoms in Orderia, and possibly even older than that!","그곳은 누구나 다 기억할 수 있을 만큼 오랫동안 존재해 왔어요! 규율의 땅의 모든 왕국보다 더 오래되었고, 어쩌면 그보다 훨씬 더 오래되었을지도 몰라요.",
 ,Miss_Burrough_Default_n44,Some scholars theorize that an old forgotten civilization built it.,일부 학자들은 잊혀진 고대 문명이 건설했다고 주장하죠,
 ,Miss_Burrough_Default_n45,"But, who were these mysterious animals?",하지만 그 신비한 동물들은 누구였을까요?,
 ,Miss_Burrough_Default_n46,What happened to them?,그들에게 무슨 일이 일어났을까요?,
@@ -4822,7 +4822,7 @@ Three: Treasure!",1: 음식! 2: 건축 자재! 3: 보물!,
 ,Miss_Burrough_Default_n64,There are many entrances to the Dungeon! Some scary - others common places for new adventurers to go looting!,"던전 입구도 많이 있습니다. 무서무시한 곳도 있고, 초보 모험가들이 아이템을 구하기 쉬운 곳도 있어요.",
 ,Miss_Burrough_Default_n65,Some say the challenges you face and the objects you bring determine where the dungeon leads!,어떤 사람은 당신이 직면한 도전과 가지기로 한 아이템이 어떤 던전으로 향하게 될 지를 결정한다고 해요.,
 ,Miss_Burrough_Default_n66,Beyond the forest to the North and West is the Badger Kingdom.,숲 너머의 북쪽과 서쪽에는 오소리 왕국이 있습니다,
-,Miss_Burrough_Default_n67,"Orderia is a vast place and I'm sure there is more to discover! and beyond that, On a clear day on the coast you can see the tops of trees in the distance.",오데리아는 광활한 곳이며 많은 것을 발견할 수 있어요. 맑은 날에는 해안에서 멀리 떨어진 나무 꼭대기도 볼 수 있죠,
+,Miss_Burrough_Default_n67,"Orderia is a vast place and I'm sure there is more to discover! and beyond that, On a clear day on the coast you can see the tops of trees in the distance.",규율의 땅은 광활한 곳이며 많은 것을 발견할 수 있어요. 맑은 날에는 해안에서 멀리 떨어진 나무 꼭대기도 볼 수 있죠,
 ,Miss_Burrough_Default_n68,Your mom was a founding member! ,당신 엄마는 창립 멤버였어요,
 ,Miss_Burrough_Default_n69,And of course there was Lord Quillswish! The original mayor!,물론 퀼스위시 경도 계셨죠! 최초의 시장!,
 ,Miss_Burrough_Default_n70,He could raise an army with a single speech! ,그는 연설 한 마디로 군대를 일으킬 수 있었어요,
@@ -4905,7 +4905,7 @@ REFSTART#Parcel_Generic,Parcel_Generic_n1,Thanks for meeting with me during your
 REFEND#Parcel_Generic,Parcel_Generic_n22,That way you can focus on adventuring! Knowing that I already have the items safely back home!,그러면 당신은 모험에 집중할 수 있을 거예요! 아이템은 집에 안전하게 도착했을 테니까요!,
 REFSTART#Parcel_Meeting,Parcel_Meeting_n1,Parcel's Delivery Service here!,파셀의 배달 서비스입니다!,
 ,Parcel_Meeting_n2,Looking forward to working with you!,당신과 함께 일하고 싶습니다!,
-,Parcel_Meeting_n3,We meet all of your delivery needs. Ever find an item in the dungeons beneath Orderia?,저희는 어떠한 배달 요구 사항도 충족시켜 드립니다. 오데리아 지하 던전에서 아이템을 발견한 적 있으시나요?,
+,Parcel_Meeting_n3,We meet all of your delivery needs. Ever find an item in the dungeons beneath Orderia?,저희는 어떠한 배달 요구 사항도 충족시켜 드립니다. 규율의 땅 지하 던전에서 아이템을 발견한 적 있으시나요?,
 ,Parcel_Meeting_n4,You just HAVE TO HAVE IT!,그건 바로 당신의 것입니다!,
 ,Parcel_Meeting_n5,But alas... you aren't done adventuring yet!,하지만 아쉽게도… 당신의 모험은 끝나지 않았군요,
 ,Parcel_Meeting_n6,That's where we come in!,그래서 저희가 왔습니다.,
@@ -4966,7 +4966,7 @@ REFSTART#Pochette_Standard,Pochette_Standard_n1,"Lets keep it up, Purse!","계속 
 REFEND#Pochette_Standard,Pochette_Standard_n5,"Its been nice relaxing up here for a bit, but I'm ready to cause some havoc with my friends!","여기서 잠깐 숨을 돌리는 건 좋지만, 저는 친구들과 함께 세상을 뒤흔들 준비가 되었어요",
 REFSTART#Pochette_WonGame,Pochette_WonGame_n1,So you saved your Dad...,그래서 당신은 아빠를 구했군요,
 ,Pochette_WonGame_n2,Save your Mom...,엄마도 구하고…,
-,Pochette_WonGame_n3,And saved the whole Realm of Orderia!,오데리아 왕국 전체도 구했어요,
+,Pochette_WonGame_n3,And saved the whole Realm of Orderia!,규율의 땅 왕국 전체도 구했어요,
 ,Pochette_WonGame_n4,But I'll never stop training!,하지만 저는 훈련을 멈추지 않을 거예요,
 ,Pochette_WonGame_n5,"If you ever slow down Purse, me and my Pets will be there to help you move forward!","퍼스, 당신이 지치면 나와 나의 펫이 당신이 앞으로 나아갈 수 있게 도와줄게요",
 ,Pochette_WonGame_n6,So glad to have you with us! And you really do smell a lot better now,당신이 우리와 함께 해서 정말 기쁩니다. 그리고 당신 냄새도 많이 좋아졌어요,
@@ -4980,7 +4980,7 @@ REFSTART#Prada_Meet,Prada_Meet_n1,The Dungeon was spilling out into the world ab
 ,Prada_Meet_n4,I'm just happy you're safe. It's so good to see you again!,네가 안전해서 정말 기쁘구나. 다시 만나서 정말 반가워.,
 ,Prada_Meet_n5,"Purse, I don't know if I'll ever be the same","퍼스, 내가 예전으로 돌아갈 수 있을지 모르겠구나",
 ,Prada_Meet_n6,But I do know that I'm thankful for you and all that you've done,하지만 너와 네가 한 모든 것에 감사한단다,
-,Prada_Meet_n7,"The scars on me remain, but the burden on Orderia is lifted. You've saved us from the chaos of that place",내게 상처는 남았지만 오데리아의 짐은 덜었어. 네가 우리를 혼돈 속에서 구한 거야.,
+,Prada_Meet_n7,"The scars on me remain, but the burden on Orderia is lifted. You've saved us from the chaos of that place",내게 상처는 남았지만 규율의 땅의 짐은 덜었어. 네가 우리를 혼돈 속에서 구한 거야.,
 ,Prada_Meet_n8,I'm not done yet! I'm still going to collect everything I can from that place!,아직 끝나지 않았어. 나는 거기서 모을 수 있는 모든 걸 모을 거야.,
 ,Prada_Meet_n9,"You always did love organizing things! Even as a little pup, you would gather stones!",너는 항상 정리하는 걸 좋아했지 않니? 어린 강아지일 때도 돌멩이를 모으곤 했잖아.,
 ,Prada_Meet_n10,They were always spilling out of my pockets!,네 주머니에는 항상 돌멩이가 넘쳤단다,
@@ -4988,7 +4988,7 @@ REFEND#Prada_Meet,Prada_Meet_n11,Oh Purse! We're so lucky to have you!,"퍼스, 네
 REFSTART#randomNPC_fallBack,randomNPC_fallBack_n2,Found any good items recently?,요즘 아이템 찾은 거 있나요?,
 ,randomNPC_fallBack_n3,Have you ever seen a Lucky Wraith? Defeating them guarantees good luck!,행운 의 유령을 본 적 있나요? 물리치면 행운 을 얻을 수 있어요,
 ,randomNPC_fallBack_n4,I never go near the Dungeon! I'm afraid of that place!,저는 던전 근처에 얼씬도 안해요. 무섭잖아요.,
-,randomNPC_fallBack_n5,Haversack Hill might be the safest place in Orderia! ...it isn't very safe here!,배낭 언덕은 오데리아에서 가장 안전한 곳이에요. 여긴 안전하지 않아요.,
+,randomNPC_fallBack_n5,Haversack Hill might be the safest place in Orderia! ...it isn't very safe here!,배낭 언덕은 규율의 땅에서 가장 안전한 곳이에요. 여긴 안전하지 않아요.,
 ,randomNPC_fallBack_n6,I pray to Anna every day!,저는 매일 안나를 위해 기도합니다,
 REFEND#randomNPC_fallBack,randomNPC_fallBack_n7,I'm just exploring around town a bit!,저는 그냥 마을을 좀 돌아다니는 거예요,
 REFSTART#randomNPC_Surroundings,randomNPC_Surroundings_n1,This house here is so cozy! That's why so many animals come to Haversack!,이 집은 정말 아늑해요. 이게 바로 많은 동물들이 배낭 언덕에 오는 이유죠.,
@@ -5066,7 +5066,7 @@ REFSTART#random_NPC_lastRun,random_NPC_lastRun_n1,You made it to the depths and 
 REFEND#random_NPC_lastRun,random_NPC_lastRun_n22,The town keeps growing while you're gone!,당신이 없는 동안에도 마을은 계속 발전하고 있어요,
 REFSTART#random_NPC_lastRunEvents,random_NPC_lastRunEvents_n6,Parcel said he met you down there! It's amazing how fast that guy is!,파셸이 저 아래에서 당신을 만났다고 했어요. 정말 빠른 친구예요,
 ,random_NPC_lastRunEvents_n7,Baz saw you down there! Said you checked out their inventory!,바즈도 당신을 봤대요! 인벤토리를 확인했다면서요!,
-,random_NPC_lastRunEvents_n8,I heard you came back to Orderia with an upgraded item! I love what the Badgers can do with an anvil!,당신이 업그레이드된 아이템과 함께 오데리아에서 돌아왔다고 들었어요. 저는 오소리들이 모루로 뭔가를 하는 게 너무 좋아요.,
+,random_NPC_lastRunEvents_n8,I heard you came back to Orderia with an upgraded item! I love what the Badgers can do with an anvil!,당신이 업그레이드된 아이템과 함께 규율의 땅에서 돌아왔다고 들었어요. 저는 오소리들이 모루로 뭔가를 하는 게 너무 좋아요.,
 ,random_NPC_lastRunEvents_n9,I saw an item you sold to Zaar! Looks like you've been visiting the forges a lot!,자르에게 아이템을 파는 걸 봤어요. 대장간을 자주 방문하는 거 같던데요!, WARNING: ENGLISH TEXT CHANGED #####################################################
 ,random_NPC_lastRunEvents_n10,Tell me about the relics that you found! They're the rarest items in the Dungeon!,당신이 찾은 유물에 대해 말해줘요. 유물은 던전에서 가장 희귀한 아이템이죠!,
 ,random_NPC_lastRunEvents_n11,This really shady rat passed through the Chirping Sparrow the other day. Said he had been trading with you! Be careful with that guy!,"지저귀는 참새를 지나간 수상한 쥐가 있었어요. 당신과 거래를 했다는데, 녀석을 조심하세요.",
@@ -5099,7 +5099,7 @@ REFEND#random_NPC_lastRunItems,random_NPC_lastRunItems_n23,You've been bringing 
 REFSTART#random_NPC_specificItemsChat,random_NPC_specificItemsChat_n6,I saw that Golden cheese peeking out of your backpack! I bought some once! So delicious!,당신 가방에서 황금 치즈를 봤어요. 나도 한번 샀는데 정말 맛있었어요.,
 ,random_NPC_specificItemsChat_n7,You brought back a lost spark! Those things are so mysterious! They can unlock all kinds of new stuff!,잃어버린 불꽃을 가져왔군요. 정말 신비로운 물건이죠. 모든 종류의 새로운 아이템을 해금할 수 있거든요.,
 ,random_NPC_specificItemsChat_n8,You brought back a serious pouch of treasure! I've never seen so much gold in one place before!,엄청난 보물 주머니를 가져왔군요. 한 자리에 이렇게 많은 금이 모여 있는 건 처음 봐요.,
-,random_NPC_specificItemsChat_n9,You found a piece of a robot! Constance keeps talking about those!,로봇 조각을 찾았다면서요! 콘스탄스가 계속 그 이야기를 했어요.,
+,random_NPC_specificItemsChat_n9,You found a piece of a robot! Constance keeps talking about those!,로봇 조각상을 찾았다면서요! 콘스탄스가 계속 그 이야기를 했어요.,
 ,random_NPC_specificItemsChat_n10,I saw you with one of those funky little shields with a face on it! Shields shouldn't have faces!,방패에 얼굴이 그려져 있는 걸 봤어요. 방패에는 얼굴이 있으면 안 돼요!,
 ,random_NPC_specificItemsChat_n11,"You brought back a whetstone! I didn't see it, but I could see how your blades look: AMAZING!",숫돌을 가져왔군요. 직접 보진 못했지만 당신 칼날이 어떻게 생겼는지 짐작이 가네요. 분명 대단하겠죠.,
 ,random_NPC_specificItemsChat_n12,So you brought back an apprentice staff. It's still impressive to me. I can't do any magic!,견습생 지팡이를 다시 가져왔군요. 여전히 인상적이네요. 저는 마법을 못 쓰거든요.,
@@ -5153,7 +5153,7 @@ REFSTART#Sam_MysteriousLetter,Sam_MysteriousLetter_n1,Hey Kid! I heard you found
 ,Sam_MysteriousLetter_n18,"Our leader, the patriarch of the noble Robin family, was sadly killed not long ago and I was forced to flee.","고귀한 로빈 가문의 가장이셨던 우리의 지도자는 얼마 전 슬프게도 살해당했고, 저는 도망쳐야만 했어요.", WARNING: ENGLISH TEXT CHANGED #####################################################
 REFEND#Sam_MysteriousLetter,Sam_MysteriousLetter_n19,I may have abandoned my kingdom - but never my loyalty to the Robin family!,나의 왕국은 버렸지만 로빈 가문에 대한 충성심은 버리지 않았어요,
 REFEND#Sam_MysteriousLetter,Sam_MysteriousLetter_n21,"And this bounty is for his son, Satchel!",그리고 이 현상금은 그 아들 사첼의 거죠!, WARNING: ENGLISH PLACEHOLDER #####################################################
-REFSTART#Sam_Reach25Villagers,Sam_Reach25Villagers_n1,"Listen Kid, the Tavern sees a few travelers from other parts of Orderia","꼬맹아, 잘 들어요. 술집에 오데리아 다른 지역에서 온 여행가 몇 명이 있어요.",
+REFSTART#Sam_Reach25Villagers,Sam_Reach25Villagers_n1,"Listen Kid, the Tavern sees a few travelers from other parts of Orderia","꼬맹아, 잘 들어요. 술집에 규율의 땅 다른 지역에서 온 여행가 몇 명이 있어요.",
 ,Sam_Reach25Villagers_n3,But there just aren't enough animals in Haversack Hill to get by,하지만 배낭 언덕에는 동물이 부족해요,
 ,Sam_Reach25Villagers_n4,"If we could get say... 25 residents, I wouldn't have to collect half-eaten sandwiches to serve again",주민이 25마리만 있어도 반쯤 먹은 샌드위치는 안 줘도 될 텐데요,
 ,Sam_Reach25Villagers_n5,Hey Kid! Tavern is bustling these days!,꼬맹이! 요즘 술집이 북적거려요,
@@ -5241,7 +5241,7 @@ REFSTART#Stumpy_Intro,Stumpy_Intro_n1,So you're the one who's been rebuilding Ha
 ,Stumpy_Intro_n3,Let me introduce myself,내 소개를 할게요,
 ,Stumpy_Intro_n4,"I may not have a tail, but I am still a squirrel",꼬리는 없지만 저는 여전히 다람쥐예요,
 ,Stumpy_Intro_n5,They call me Stumpy,다들 저를 '스텀피'라고 불러요,
-,Stumpy_Intro_n6,And I oversee all Patrol activities in this sector of Orderia,저는 오데리아 이 구역의 모든 순찰 활동을 감독해요,
+,Stumpy_Intro_n6,And I oversee all Patrol activities in this sector of Orderia,저는 규율의 땅 이 구역의 모든 순찰 활동을 감독해요,
 ,Stumpy_Intro_n7,If you ever need any help. Give a holler,도움이 필요하면 언제든지 말하세요,
 REFEND#Stumpy_Intro,Stumpy_Intro_n8,I'll be making sure the barracks are in order,병영이 잘 돌아가는지 확인해야 해요,
 REFSTART#Stumpy_Raid,Stumpy_Raid_n1,It's horrible to see this!,정말 끔찍한 광경이네요,
@@ -5263,7 +5263,7 @@ REFSTART#Stumpy_Raid,Stumpy_Raid_n1,It's horrible to see this!,정말 끔찍한 광경�
 ,Stumpy_Raid_n16,Soon you will rescue your father!,금방 아버지를 구해낼수 있을거예요,
 ,Stumpy_Raid_n17,They're going to pay for this! Where did they take my father?,그들은 대가를 치뤄야 해요. 내 아빠를 어디로 데려간 거죠?,
 ,Stumpy_Raid_n18,And the resources you get will only make us stronger against them!,당신이 얻은 자원은 그들에게 맞설 힘을 줄 거예요,
-,Stumpy_Raid_n19,They dragged him back into the Dungeon beneath Orderia!,그들은 아빠를 오데리아 지하 던전에 데려갔어요,
+,Stumpy_Raid_n19,They dragged him back into the Dungeon beneath Orderia!,그들은 아빠를 규율의 땅 지하 던전에 데려갔어요,
 ,Stumpy_Raid_n20,For the patrol!,순찰대를 위해서!,
 ,Stumpy_Raid_n23,Purse! We're under attack!,"퍼스, 우리는 공격받고 있어요",
 ,Stumpy_Raid_n24,There are still King's Thugs roaming the village now!,아직도 왕의 주먹들이 마을을 어슬렁거리고 있어요, WARNING: ENGLISH TEXT CHANGED #####################################################
@@ -5316,7 +5316,7 @@ REFSTART#Vivienne_Default,Vivienne_Default_n2,May the pages of your life be fill
 ,Vivienne_Default_n7,I've added the translation to your atlas!,아틀라스에 번역본을 추가했어요.,
 ,Vivienne_Default_n9,Do you have more for me to read?,더 읽을 게 있나요?,
 REFEND#Vivienne_Default,Vivienne_Default_n20,Do you have anything new for me to read?,새로운 읽을거리가 있나요?,
-REFSTART#Vivienne_Intro,Vivienne_Intro_n1,Oh! I should also mention that I'm an expert on the many languages that are written across Orderia!,"아, 제가 오데리아 전역에 쓰여진 많은 언어의 전문가라는 것도 말씀드려야겠네요",
+REFSTART#Vivienne_Intro,Vivienne_Intro_n1,Oh! I should also mention that I'm an expert on the many languages that are written across Orderia!,"아, 제가 규율의 땅 전역에 쓰여진 많은 언어의 전문가라는 것도 말씀드려야겠네요",
 ,Vivienne_Intro_n2,Librarian here reporting for duty! ,사서는 여기에 반드시 보고해야 하죠,
 ,Vivienne_Intro_n3,I was told that Haversack Hill is getting quite large!,배낭 언덕이 점점 커지고 있다는 말을 들었어요,
 ,Vivienne_Intro_n4,But still no library! We need to change that!,하지만 도서관이 없네요! 이건 바꿔야 해요!,
@@ -5417,7 +5417,7 @@ REFSTART#Zaar_WonGame,Zaar_WonGame_n1,It is so good to have Prada back in town!,
 ,Zaar_WonGame_n3,And her sense of humor! I'm always laughing all day! Ah! Great job Purse!,게다가 유머 감각도 뛰어나. 그녀와 함께 있으면 웃음이 끊이지 않았어. 퍼스는 최고야!, WARNING: ENGLISH PLACEHOLDER ##################################################### WARNING: ENGLISH PLACEHOLDER #####################################################
 ,Zaar_WonGame_n4,"But listen, we could always use more stuff to sell!",일단 내 말 들어 봐. 우리에게는 언제나 더 많은 판매 물품이 필요해., WARNING: ENGLISH PLACEHOLDER ##################################################### WARNING: ENGLISH PLACEHOLDER #####################################################
 REFEND#Zaar_WonGame,Zaar_WonGame_n6,So don't stop looting! We can always expand this place further!,그러니 아이템 수집은 멈추지 마. 언제나 여길 더 확장할 수 있다고., WARNING: ENGLISH PLACEHOLDER ##################################################### WARNING: ENGLISH PLACEHOLDER #####################################################
-,Carving cyler,Carving cyler,인각 사일러,
+,Carving cyler,Carving cyler,조각상 사일러,
 ,Chantrelle,Chantrelle,샹트렐,
 ,Catapault,Catapault,캐터펄트,
 ,sai ,sai ,사이,
